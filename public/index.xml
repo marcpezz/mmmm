@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco&#39;S Molecular Science Home on Marco’s Magical Molecular Machineries</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Marco&#39;S Molecular Science Home on Marco’s Magical Molecular Machineries</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2026 08:59:48 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>&lt;p&gt;The transformer architecture &#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;&lt;sup&gt;&lt;a href=&#34;#ref-attention2017&#34; class=&#34;citation&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&#xA; revolutionised NLP.&#xA;Building on this, BERT &#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;&lt;sup&gt;&lt;a href=&#34;#ref-bert2019&#34; class=&#34;citation&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&#xA; introduced bidirectional training.&lt;/p&gt;&#xA;&lt;p&gt;Studying the chemical interactions is important for understanding the reality around us. Everything, from stars to viruses, is  an equilibrium between an intricate physical-chemical reaction network, where a small change in one of its produces extreme consequences for all others.&lt;/p&gt;&#xA;&lt;p&gt;TODO - passaggio nel mezzo&lt;/p&gt;&#xA;&lt;p&gt;In this website I will guide you trough my journey into exploring different topics of computational astrochemistry. We will see:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overture</title>
+      <link>http://localhost:1313/docs/overture/</link>
+      <pubDate>Mon, 13 Apr 2026 08:59:48 +0000</pubDate>
+      <guid>http://localhost:1313/docs/overture/</guid>
+      <description>&lt;p&gt;Der &lt;strong&gt;hur&lt;/strong&gt; ist nahe&#xA;&lt;em&gt;Tote Makima&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The chemistry of the interstellar medium</title>
+      <link>http://localhost:1313/docs/posts/interstellar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/posts/interstellar/</guid>
+      <description>&lt;h1 id=&#34;the-interstellar-medium&#34;&gt;The interstellar medium&lt;a class=&#34;anchor&#34; href=&#34;#the-interstellar-medium&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In all galaxies, the space between celestial bodies is filled with a collection of gas and dust particles. These particles are known as &lt;em&gt;interstellar medium&lt;/em&gt; (ISM) and possesses density of $10^{-9}$ grains$\times$cm$^{-3}$.&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&lt;sup&gt;&lt;a href=&#34;#ref-wakelamrev&#34; class=&#34;citation&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&#xA; The ISM is a reservoir of constituents for the formation of new stars. It is mostly composed of hydrogen atoms, the second most common element is helium with a relative abundance of 8.5$\times 10^{-2}$ per hydrogen atom, followed by oxygen (2.6$\times 10^{-4}$per hydrogen atom&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;&lt;sup&gt;&lt;a href=&#34;#ref-Markwick_2000&#34; class=&#34;citation&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&#xA;) and carbon (1.2$\times 10^{-4}$ &#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;&lt;sup&gt;&lt;a href=&#34;#ref-cardelli_1993&#34; class=&#34;citation&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&#xA; per hydrogen atom). All other elements are present with abundances lower than $10^{-4}$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Main</title>
+      <link>http://localhost:1313/docs/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/main/</guid>
+      <description>&lt;p&gt;V for Vendemmia&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coda</title>
+      <link>http://localhost:1313/docs/coda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/coda/</guid>
+      <description>&lt;p&gt;this is the end&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>References</title>
+      <link>http://localhost:1313/docs/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/references/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

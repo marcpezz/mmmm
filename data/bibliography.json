@@ -1,0 +1,6675 @@
+[
+  {
+    "author": [
+      {
+        "family": "Heermann",
+        "given": "Dieter W."
+      }
+    ],
+    "container-title": "Computer simulation methods in theoretical physics",
+    "id": "Heermann1990",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "51-103",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "title": "Stochastic methods",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Crank",
+        "given": "J."
+      },
+      {
+        "family": "Nicolson",
+        "given": "P."
+      }
+    ],
+    "container-title": "Math. Proc. Cambridge Philos. Soc.",
+    "id": "crank_nicolson_1947",
+    "issued": {
+      "date-parts": [
+        [
+          1947
+        ]
+      ]
+    },
+    "page": "50-67",
+    "publisher": "Cambridge University Press",
+    "title": "A practical method for numerical evaluation of solutions of partial differential equations of the heat-conduction type",
+    "type": "article-journal",
+    "volume": "43"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunning",
+        "given": "Thom H."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "dunning1989",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "1007-1023",
+    "title": "Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen",
+    "type": "article-journal",
+    "volume": "90"
+  },
+  {
+    "author": [
+      {
+        "family": "Ho",
+        "given": "Tak‐San"
+      },
+      {
+        "family": "Rabitz",
+        "given": "Herschel"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "rabbitz1996",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "2584-2597",
+    "title": "A general method for constructing multidimensional molecular potential energy surfaces from ab initio calculations",
+    "type": "article-journal",
+    "volume": "104"
+  },
+  {
+    "author": [
+      {
+        "family": "Unke",
+        "given": "Oliver T."
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J Chem Inf Model",
+    "id": "rkhstoolkit",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1923-1931",
+    "title": "Toolkit for the construction of reproducing kernel-based representations of data: Application to multidimensional potential energy surfaces",
+    "title-short": "Toolkit for the construction of reproducing kernel-based representations of data",
+    "type": "article-journal",
+    "volume": "57"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibbs",
+        "given": "Josiah Willard"
+      }
+    ],
+    "collection-title": "Cambridge library collection - mathematics",
+    "id": "gibbs_1902",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "Cambridge Library Collection - Mathematics",
+    "title": "Elementary principles in statistical mechanics: Developed with especial reference to the rational foundation of thermodynamics",
+    "title-short": "Elementary principles in statistical mechanics",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Peter W."
+      },
+      {
+        "family": "De Paula",
+        "given": "Julio"
+      }
+    ],
+    "id": "atkins",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "title": "Atkins’ physical chemistry",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tikhonov",
+        "given": "Andrey N"
+      },
+      {
+        "family": "Arsenin",
+        "given": "Vasilii Iakkovlevich"
+      }
+    ],
+    "id": "tikhonov1977solutions",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "publisher": "Winston, Washington, DC",
+    "title": "Solutions of ill-posed problems",
+    "type": "book",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Born",
+        "given": "M."
+      },
+      {
+        "family": "Oppenheimer",
+        "given": "R."
+      }
+    ],
+    "container-title": "Ann. Phys. (Berl.)",
+    "id": "BO1927",
+    "issue": "20",
+    "issued": {
+      "date-parts": [
+        [
+          1927
+        ]
+      ]
+    },
+    "page": "457-484",
+    "title": "Zur quantentheorie der molekeln",
+    "type": "article-journal",
+    "volume": "389"
+  },
+  {
+    "author": [
+      {
+        "family": "Møller",
+        "given": "Chr."
+      },
+      {
+        "family": "Plesset",
+        "given": "M. S."
+      }
+    ],
+    "container-title": "Phys. Rev.",
+    "id": "mp1934",
+    "issued": {
+      "date-parts": [
+        [
+          1934,
+          10
+        ]
+      ]
+    },
+    "page": "618-622",
+    "publisher": "American Physical Society",
+    "title": "Note on an approximation treatment for many-electron systems",
+    "type": "article-journal",
+    "volume": "46"
+  },
+  {
+    "author": [
+      {
+        "family": "Metropolis",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Rosenbluth",
+        "given": "Arianna W."
+      },
+      {
+        "family": "Rosenbluth",
+        "given": "Marshall N."
+      },
+      {
+        "family": "Teller",
+        "given": "Augusta H."
+      },
+      {
+        "family": "Teller",
+        "given": "Edward"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "metropolis1953",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "page": "1087-1092",
+    "title": "Equation of state calculations by fast computing machines",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Anisimov",
+        "given": "Victor M."
+      },
+      {
+        "family": "Lamoureux",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Vorobyov",
+        "given": "Igor V."
+      },
+      {
+        "family": "Huang",
+        "given": "Niu"
+      },
+      {
+        "family": "Roux",
+        "given": "Benoît"
+      },
+      {
+        "family": "MacKerell",
+        "given": "Alexander D."
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "drude2005",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "153-168",
+    "title": "Determination of electrostatic parameters for a polarizable force field based on the classical drude oscillator",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Ponder",
+        "given": "Jay W."
+      },
+      {
+        "family": "Wu",
+        "given": "Chuanjie"
+      },
+      {
+        "family": "Ren",
+        "given": "Pengyu"
+      },
+      {
+        "family": "Pande",
+        "given": "Vijay S."
+      },
+      {
+        "family": "Chodera",
+        "given": "John D."
+      },
+      {
+        "family": "Schnieders",
+        "given": "Michael J."
+      },
+      {
+        "family": "Haque",
+        "given": "Imran"
+      },
+      {
+        "family": "Mobley",
+        "given": "David L."
+      },
+      {
+        "family": "Lambrecht",
+        "given": "Daniel S."
+      },
+      {
+        "family": "DiStasio",
+        "given": "Robert A."
+      },
+      {
+        "family": "Head-Gordon",
+        "given": "Martin"
+      },
+      {
+        "family": "Clark",
+        "given": "Gary N. I."
+      },
+      {
+        "family": "Johnson",
+        "given": "Margaret E."
+      },
+      {
+        "family": "Head-Gordon",
+        "given": "Teresa"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "amoeba2010",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "2549-2564",
+    "title": "Current status of the AMOEBA polarizable force field",
+    "type": "article-journal",
+    "volume": "114"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "van",
+        "family": "Duin",
+        "given": "Adri C. T."
+      },
+      {
+        "family": "Dasgupta",
+        "given": "Siddharth"
+      },
+      {
+        "family": "Lorant",
+        "given": "Francois"
+      },
+      {
+        "family": "Goddard",
+        "given": "William A."
+      }
+    ],
+    "container-title": "J. Phys. Chem. A",
+    "id": "reaxff2001",
+    "issue": "41",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "9396-9409",
+    "title": "ReaxFF:  a reactive force field for hydrocarbons",
+    "title-short": "ReaxFF",
+    "type": "article-journal",
+    "volume": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanommeslaeghe",
+        "given": "K."
+      },
+      {
+        "family": "Hatcher",
+        "given": "E."
+      },
+      {
+        "family": "Acharya",
+        "given": "C."
+      },
+      {
+        "family": "Kundu",
+        "given": "S."
+      },
+      {
+        "family": "Zhong",
+        "given": "S."
+      },
+      {
+        "family": "Shim",
+        "given": "J."
+      },
+      {
+        "family": "Darian",
+        "given": "E."
+      },
+      {
+        "family": "Guvench",
+        "given": "O."
+      },
+      {
+        "family": "Lopes",
+        "given": "P."
+      },
+      {
+        "family": "Vorobyov",
+        "given": "I."
+      },
+      {
+        "family": "Mackerell Jr.",
+        "given": "A. D."
+      }
+    ],
+    "container-title": "J. Comp. Chem.",
+    "id": "cgenff",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "671-690",
+    "title": "CHARMM general force field: A force field for drug-like molecules compatible with the CHARMM all-atom additive biological force fields",
+    "title-short": "CHARMM general force field",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "Jing"
+      },
+      {
+        "family": "MacKerell Jr",
+        "given": "Alexander D."
+      }
+    ],
+    "container-title": "J. Comp. Chem.",
+    "id": "charmm36",
+    "issue": "25",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "2135-2145",
+    "title": "CHARMM36 all-atom additive protein force field: Validation based on comparison to NMR data",
+    "title-short": "CHARMM36 all-atom additive protein force field",
+    "type": "article-journal",
+    "volume": "34"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Lee-Ping"
+      },
+      {
+        "family": "Head-Gordon",
+        "given": "Teresa"
+      },
+      {
+        "family": "Ponder",
+        "given": "Jay W."
+      },
+      {
+        "family": "Ren",
+        "given": "Pengyu"
+      },
+      {
+        "family": "Chodera",
+        "given": "John D."
+      },
+      {
+        "family": "Eastman",
+        "given": "Peter K."
+      },
+      {
+        "family": "Martinez",
+        "given": "Todd J."
+      },
+      {
+        "family": "Pande",
+        "given": "Vijay S."
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "iamoeba",
+    "issue": "34",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "9956-9972",
+    "title": "Systematic improvement of a classical molecular model of water",
+    "type": "article-journal",
+    "volume": "117"
+  },
+  {
+    "author": [
+      {
+        "family": "Ponder",
+        "given": "Jay W"
+      },
+      {
+        "family": "Case",
+        "given": "David A"
+      }
+    ],
+    "container-title": "Adv Protein Chem Struct Biol",
+    "id": "amberff",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "27-85",
+    "publisher": "Elsevier",
+    "title": "Force fields for protein simulations",
+    "type": "article-journal",
+    "volume": "66"
+  },
+  {
+    "author": [
+      {
+        "family": "Jorgensen",
+        "given": "William L."
+      },
+      {
+        "family": "Tirado-Rives",
+        "given": "Julian"
+      }
+    ],
+    "container-title": "J. Am. Chem. Soc.",
+    "id": "opls",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "1657-1666",
+    "title": "The OPLS [optimized potentials for liquid simulations] potential functions for proteins, energy minimizations for crystals of cyclic peptides and crambin",
+    "type": "article-journal",
+    "volume": "110"
+  },
+  {
+    "author": [
+      {
+        "family": "Swope",
+        "given": "William C."
+      },
+      {
+        "family": "Andersen",
+        "given": "Hans C."
+      },
+      {
+        "family": "Berens",
+        "given": "Peter H."
+      },
+      {
+        "family": "Wilson",
+        "given": "Kent R."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "vverl",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "page": "637-649",
+    "title": "A computer simulation method for the calculation of equilibrium constants for the formation of physical clusters of molecules: Application to small water clusters",
+    "title-short": "A computer simulation method for the calculation of equilibrium constants for the formation of physical clusters of molecules",
+    "type": "article-journal",
+    "volume": "76"
+  },
+  {
+    "author": [
+      {
+        "family": "Verlet",
+        "given": "Loup"
+      }
+    ],
+    "container-title": "Phys. Rev.",
+    "id": "verl",
+    "issued": {
+      "date-parts": [
+        [
+          1967,
+          7
+        ]
+      ]
+    },
+    "page": "98-103",
+    "title": "Computer \"experiments\" on classical fluids. I. Thermodynamical properties of lennard-jones molecules",
+    "type": "article-journal",
+    "volume": "159"
+  },
+  {
+    "author": [
+      {
+        "family": "Gunsteren",
+        "given": "W. F. Van"
+      },
+      {
+        "family": "Berendsen",
+        "given": "H. J. C."
+      }
+    ],
+    "container-title": "Mol Simul",
+    "id": "leapfrog",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "173-185",
+    "title": "A leap-frog algorithm for stochastic dynamics",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Berendsen",
+        "given": "H. J. C."
+      },
+      {
+        "family": "Postma",
+        "given": "J. P. M."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Gunsteren",
+        "given": "W. F."
+      },
+      {
+        "family": "DiNola",
+        "given": "A."
+      },
+      {
+        "family": "Haak",
+        "given": "J. R."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "Berendsen1984",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "3684-3690",
+    "title": "Molecular dynamics with coupling to an external bath",
+    "type": "article-journal",
+    "volume": "81"
+  },
+  {
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "T."
+      },
+      {
+        "family": "Stoll",
+        "given": "E."
+      }
+    ],
+    "container-title": "Phys. Rev. B",
+    "id": "Schneider1977",
+    "issued": {
+      "date-parts": [
+        [
+          1978,
+          2
+        ]
+      ]
+    },
+    "page": "1302-1322",
+    "title": "Molecular-dynamics study of a three-dimensional one-component model for distortive phase transitions",
+    "type": "article-journal",
+    "volume": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "Nosé",
+        "given": "Shuichi"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "nose1984",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "511-519",
+    "title": "A unified formulation of the constant temperature molecular dynamics methods",
+    "type": "article-journal",
+    "volume": "81"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoover",
+        "given": "William G."
+      }
+    ],
+    "container-title": "Phys. Rev. A",
+    "id": "hoover1985",
+    "issued": {
+      "date-parts": [
+        [
+          1985,
+          3
+        ]
+      ]
+    },
+    "page": "1695-1697",
+    "title": "Canonical dynamics: Equilibrium phase-space distributions",
+    "title-short": "Canonical dynamics",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Clausius",
+        "given": "R."
+      }
+    ],
+    "container-title": "Philos. Mag.",
+    "id": "virial1870",
+    "issue": "265",
+    "issued": {
+      "date-parts": [
+        [
+          1870
+        ]
+      ]
+    },
+    "page": "122-127",
+    "title": "XVI. On a mechanical theorem applicable to heat",
+    "type": "article-journal",
+    "volume": "40"
+  },
+  {
+    "author": [
+      {
+        "family": "Faller",
+        "given": "Roland"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Pablo",
+        "given": "Juan J."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "mcbaro1",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "55-59",
+    "title": "Constant pressure hybrid molecular dynamics–monte carlo simulations",
+    "type": "article-journal",
+    "volume": "116"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumagai",
+        "given": "Naoki"
+      },
+      {
+        "family": "Kawamura",
+        "given": "Katsuyuki"
+      },
+      {
+        "family": "Yokokawa",
+        "given": "Toshio"
+      }
+    ],
+    "container-title": "Mol. Sim.",
+    "id": "kky_orig",
+    "issue": "3-6",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "177-186",
+    "title": "An interatomic potential model for h_2o: Applications to water and ice polymorphs",
+    "title-short": "An interatomic potential model for h_2o",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Mulliken",
+        "given": "R. S."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "mulliken1955",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          1955
+        ]
+      ]
+    },
+    "page": "1833-1840",
+    "title": "Electronic population analysis on LCAO–MO molecular wave functions. i",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Foster",
+        "given": "J. P."
+      },
+      {
+        "family": "Weinhold",
+        "given": "F."
+      }
+    ],
+    "container-title": "J. Am. Chem. Soc.",
+    "id": "foster1980",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "page": "7211-7218",
+    "title": "Natural hybrid orbitals",
+    "type": "article-journal",
+    "volume": "102"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "Anthony J."
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "dma",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "1128-1132",
+    "title": "Distributed multipole analysis:  stability for large basis sets",
+    "title-short": "Distributed multipole analysis",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Eastman",
+        "given": "Jason AND Chodera",
+        "suffix": "Peter AND Swails"
+      }
+    ],
+    "container-title": "PLOS Comput. Biol",
+    "id": "omm",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "page": "1-17",
+    "publisher": "Public Library of Science",
+    "title": "OpenMM 7: Rapid development of high performance algorithms for molecular dynamics",
+    "title-short": "OpenMM 7",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "author": [
+      {
+        "family": "Rackers",
+        "given": "Joshua A."
+      },
+      {
+        "family": "Wang",
+        "given": "Zhi"
+      },
+      {
+        "family": "Lu",
+        "given": "Chao"
+      },
+      {
+        "family": "Laury",
+        "given": "Marie L."
+      },
+      {
+        "family": "Lagardère",
+        "given": "Louis"
+      },
+      {
+        "family": "Schnieders",
+        "given": "Michael J."
+      },
+      {
+        "family": "Piquemal",
+        "given": "Jean-Philip"
+      },
+      {
+        "family": "Ren",
+        "given": "Pengyu"
+      },
+      {
+        "family": "Ponder",
+        "given": "Jay W."
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "tinker8",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "5273-5289",
+    "title": "Tinker 8: Software tools for molecular design",
+    "title-short": "Tinker 8",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Christian"
+      },
+      {
+        "family": "Gedeck",
+        "given": "Peter"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Comp. Chem.",
+    "id": "mm.2012.mpoles",
+    "issue": "20",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1673-1688",
+    "title": "Atomic multipoles: Electrostatic potential fit, local reference axis systems, and conformational dependence",
+    "title-short": "Atomic multipoles",
+    "type": "article-journal",
+    "volume": "33"
+  },
+  {
+    "author": [
+      {
+        "family": "Bereau",
+        "given": "Tristan"
+      },
+      {
+        "family": "Kramer",
+        "given": "Christian"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "mm.2013.mpoles",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "5450-5459",
+    "title": "Leveraging symmetries of static atomic multipole electrostatics in molecular dynamics simulations",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "Stefan"
+      },
+      {
+        "family": "Karplus",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "Chem. Phys. Lett.",
+    "id": "cpr",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "252 - 261",
+    "title": "Conjugate peak refinement: An algorithm for finding reaction paths and accurate transition states in systems with many degrees of freedom",
+    "title-short": "Conjugate peak refinement",
+    "type": "article-journal",
+    "volume": "194"
+  },
+  {
+    "author": [
+      {
+        "family": "Devereux",
+        "given": "Mike"
+      },
+      {
+        "family": "Raghunathan",
+        "given": "Shampa"
+      },
+      {
+        "family": "Fedorov",
+        "given": "Dmitri G."
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "dcm2014",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "4229-4241",
+    "title": "A novel, computationally efficient multipolar model employing distributed charges for molecular dynamics simulations",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Unke",
+        "given": "Oliver T."
+      },
+      {
+        "family": "Devereux",
+        "given": "Mike"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "mdcm2017",
+    "issue": "16",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "161712",
+    "title": "Minimal distributed charges: Multipolar quality at the cost of point charge electrostatics",
+    "title-short": "Minimal distributed charges",
+    "type": "article-journal",
+    "volume": "147"
+  },
+  {
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Qi"
+      },
+      {
+        "family": "Yokojima",
+        "given": "Satoshi"
+      },
+      {
+        "family": "Fedorov",
+        "given": "Dmitri G."
+      },
+      {
+        "family": "Kitaura",
+        "given": "Kazuo"
+      },
+      {
+        "family": "Sakurai",
+        "given": "Minoru"
+      },
+      {
+        "family": "Nakamura",
+        "given": "Shinichiro"
+      }
+    ],
+    "container-title": "Chem. Phys. Lett.",
+    "id": "gao2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "165 - 173",
+    "title": "Octahedral point-charge model and its application to fragment molecular orbital calculations of chemical shifts",
+    "type": "article-journal",
+    "volume": "593"
+  },
+  {
+    "author": [
+      {
+        "family": "Pezzella",
+        "given": "Marco"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "Phys. Chem. Chem. Phys.",
+    "id": "pezzman2",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "6247-6255",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "O2 formation in cold environments",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Salehi",
+        "given": "Seyedeh Maryam"
+      },
+      {
+        "family": "Koner",
+        "given": "Debasish"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "maryam1",
+    "issue": "15",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "3282-3290",
+    "title": "Vibrational spectroscopy of N3– in the gas and condensed phase",
+    "type": "article-journal",
+    "volume": "123"
+  },
+  {
+    "author": [
+      {
+        "family": "Koner",
+        "given": "Debasish"
+      },
+      {
+        "family": "Bemish",
+        "given": "Raymond J."
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "dk1",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "094305",
+    "title": "The c(3P) + NO(X2Π) → o(3P) + CN(X2Σ+), n(2D)/n(4S) + CO(X1Σ+) reaction: Rates, branching ratios, and final states from 15 k to 20 000 k",
+    "title-short": "The c(3P) + NO(X2Π) → o(3P) + CN(X2Σ+), n(2D)/n(4S) + CO(X1Σ+) reaction",
+    "type": "article-journal",
+    "volume": "149"
+  },
+  {
+    "author": [
+      {
+        "family": "Thole",
+        "given": "B. T."
+      }
+    ],
+    "container-title": "Chem. Phys",
+    "id": "thole1981",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "page": "341 - 350",
+    "title": "Molecular polarizabilities calculated with a modified dipole interaction",
+    "type": "article-journal",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "Tuckerman",
+        "given": "Mark"
+      }
+    ],
+    "id": "tuckerman2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "Oxford university press",
+    "title": "Statistical mechanics: Theory and molecular simulation",
+    "title-short": "Statistical mechanics",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alder",
+        "given": "B. J."
+      },
+      {
+        "family": "Wainwright",
+        "given": "T. E."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "alder1959",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    },
+    "page": "459-466",
+    "title": "Studies in molecular dynamics. I. General method",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Rahman",
+        "given": "A."
+      }
+    ],
+    "container-title": "Phys. Rev.",
+    "id": "rahman1964",
+    "issued": {
+      "date-parts": [
+        [
+          1964,
+          10
+        ]
+      ]
+    },
+    "page": "A405-A411",
+    "title": "Correlations in the motion of atoms in liquid argon",
+    "type": "article-journal",
+    "volume": "136"
+  },
+  {
+    "author": [
+      {
+        "family": "Berendsen",
+        "given": "H. J. C."
+      },
+      {
+        "dropping-particle": "van der",
+        "family": "Spoel",
+        "given": "D."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Drunen",
+        "given": "R."
+      }
+    ],
+    "container-title": "Comput. Phys. Commun",
+    "id": "gromacs1995",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "43 - 56",
+    "title": "GROMACS: A message-passing parallel molecular dynamics implementation",
+    "title-short": "GROMACS",
+    "type": "article-journal",
+    "volume": "91"
+  },
+  {
+    "author": [
+      {
+        "family": "Brooks",
+        "given": "B. R."
+      },
+      {
+        "family": "Brooks III",
+        "given": "C. L."
+      },
+      {
+        "family": "Mackerell Jr.",
+        "given": "A. D."
+      },
+      {
+        "family": "Nilsson",
+        "given": "L."
+      },
+      {
+        "family": "Petrella",
+        "given": "R. J."
+      },
+      {
+        "family": "Roux",
+        "given": "B."
+      },
+      {
+        "family": "Won",
+        "given": "Y."
+      },
+      {
+        "family": "Archontis",
+        "given": "G."
+      },
+      {
+        "family": "Bartels",
+        "given": "C."
+      },
+      {
+        "family": "Boresch",
+        "given": "S."
+      },
+      {
+        "family": "Caflisch",
+        "given": "A."
+      },
+      {
+        "family": "Caves",
+        "given": "L."
+      },
+      {
+        "family": "Cui",
+        "given": "Q."
+      },
+      {
+        "family": "Dinner",
+        "given": "A. R."
+      },
+      {
+        "family": "Feig",
+        "given": "M."
+      },
+      {
+        "family": "Fischer",
+        "given": "S."
+      },
+      {
+        "family": "Gao",
+        "given": "J."
+      },
+      {
+        "family": "Hodoscek",
+        "given": "M."
+      },
+      {
+        "family": "Im",
+        "given": "W."
+      },
+      {
+        "family": "Kuczera",
+        "given": "K."
+      },
+      {
+        "family": "Lazaridis",
+        "given": "T."
+      },
+      {
+        "family": "Ma",
+        "given": "J."
+      },
+      {
+        "family": "Ovchinnikov",
+        "given": "V."
+      },
+      {
+        "family": "Paci",
+        "given": "E."
+      },
+      {
+        "family": "Pastor",
+        "given": "R. W."
+      },
+      {
+        "family": "Post",
+        "given": "C. B."
+      },
+      {
+        "family": "Pu",
+        "given": "J. Z."
+      },
+      {
+        "family": "Schaefer",
+        "given": "M."
+      },
+      {
+        "family": "Tidor",
+        "given": "B."
+      },
+      {
+        "family": "Venable",
+        "given": "R. M."
+      },
+      {
+        "family": "Woodcock",
+        "given": "H. L."
+      },
+      {
+        "family": "Wu",
+        "given": "X."
+      },
+      {
+        "family": "Yang",
+        "given": "W."
+      },
+      {
+        "family": "York",
+        "given": "D. M."
+      },
+      {
+        "family": "Karplus",
+        "given": "M."
+      }
+    ],
+    "container-title": "J. Comp. Chem.",
+    "id": "charmm2009",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "1545-1614",
+    "title": "CHARMM: The biomolecular simulation program",
+    "title-short": "CHARMM",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Salomon-Ferrer",
+        "given": "Romelia"
+      },
+      {
+        "family": "Case",
+        "given": "David A."
+      },
+      {
+        "family": "Walker",
+        "given": "Ross C."
+      }
+    ],
+    "container-title": "Wiley Interdiscip. Rev. Comput. Mol. Sci",
+    "id": "amber2012",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "198-210",
+    "title": "An overview of the amber biomolecular simulation package",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Plimpton",
+        "given": "Steve"
+      }
+    ],
+    "container-title": "J. Comp. Phys.",
+    "id": "lammps1995",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "1 - 19",
+    "title": "Fast parallel algorithms for short-range molecular dynamics",
+    "type": "article-journal",
+    "volume": "117"
+  },
+  {
+    "author": [
+      {
+        "family": "CPMD"
+      },
+      {
+        "family": "IBM"
+      }
+    ],
+    "container-title": "MPI für Festkörperforschung Stuttgart",
+    "id": "cpmd1997corp",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "1",
+    "title": "Corp 1990–2006",
+    "type": "article-journal",
+    "volume": "2001"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutter",
+        "given": "Jürg"
+      },
+      {
+        "family": "Iannuzzi",
+        "given": "Marcella"
+      },
+      {
+        "family": "Schiffmann",
+        "given": "Florian"
+      },
+      {
+        "family": "VandeVondele",
+        "given": "Joost"
+      }
+    ],
+    "container-title": "Wiley Interdiscip. Rev. Comput. Mol. Sci",
+    "id": "cp2k",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "15-25",
+    "title": "cp2k: Atomistic simulations of condensed matter systems",
+    "title-short": "cp2k",
+    "type": "article-journal",
+    "volume": "4"
+  },
+  {
+    "author": [
+      {
+        "family": "Hafner",
+        "given": "Jürgen"
+      }
+    ],
+    "container-title": "J. Comp. Chem.",
+    "id": "vasp2008",
+    "issue": "13",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "2044-2078",
+    "title": "Ab-initio simulations of materials using VASP: Density-functional theory and beyond",
+    "title-short": "Ab-initio simulations of materials using VASP",
+    "type": "article-journal",
+    "volume": "29"
+  },
+  {
+    "author": [
+      {
+        "family": "Braun",
+        "given": "Efrem"
+      },
+      {
+        "family": "Gilmer",
+        "given": "Justin"
+      },
+      {
+        "family": "Mayes",
+        "given": "Heather B."
+      },
+      {
+        "family": "Mobley",
+        "given": "David L."
+      },
+      {
+        "family": "Monroe",
+        "given": "Jacob I."
+      },
+      {
+        "family": "Prasad",
+        "given": "Samarjeet"
+      },
+      {
+        "family": "Zuckerman",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "LiveCoMS",
+    "id": "thermostats",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "5957",
+    "publisher": "University of Colorado Boulder",
+    "title": "Best practices for foundations in molecular simulations [article v1.0]",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertsekas",
+        "given": "Dimitri P."
+      }
+    ],
+    "id": "lagrangemult",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "page": "v",
+    "publisher": "Academic Press",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ryckaert",
+        "given": "Jean-Paul"
+      },
+      {
+        "family": "Ciccotti",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Berendsen",
+        "given": "Herman J. C"
+      }
+    ],
+    "container-title": "J. Comp. Phys.",
+    "id": "SHAKE",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "327 - 341",
+    "title": "Numerical integration of the cartesian equations of motion of a system with constraints: Molecular dynamics of n-alkanes",
+    "title-short": "Numerical integration of the cartesian equations of motion of a system with constraints",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Andersen",
+        "given": "Hans C"
+      }
+    ],
+    "container-title": "J. Comp. Phys.",
+    "id": "rattle",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "24 - 34",
+    "title": "Rattle: A “velocity” version of the shake algorithm for molecular dynamics calculations",
+    "title-short": "Rattle",
+    "type": "article-journal",
+    "volume": "52"
+  },
+  {
+    "author": [
+      {
+        "literal": "Jeffers, S. V."
+      },
+      {
+        "literal": "Min, M."
+      },
+      {
+        "literal": "Waters, L. B. F. M."
+      },
+      {
+        "literal": "Canovas, H."
+      },
+      {
+        "literal": "Rodenhuis, M."
+      },
+      {
+        "literal": "de Juan Ovelar, M."
+      },
+      {
+        "literal": "Chies-Santos, A. L."
+      },
+      {
+        "literal": "Keller, C. U."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "hubble2012rcoronae",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "A56",
+    "title": "Direct imaging of a massive dust cloud around r coronae borealis",
+    "type": "article-journal",
+    "volume": "539"
+  },
+  {
+    "author": [
+      {
+        "family": "Pigott",
+        "given": "E."
+      },
+      {
+        "family": "Englefield",
+        "given": "H. C."
+      }
+    ],
+    "container-title": "R. Soc. of Lond. Phil. Trans. I",
+    "id": "pigott1797",
+    "issue": "133",
+    "issued": {
+      "date-parts": [
+        [
+          1797
+        ]
+      ]
+    },
+    "page": "133 - 141",
+    "title": "VI. On the periodical changes of brightness of two fixed stars",
+    "type": "article-journal",
+    "volume": "87"
+  },
+  {
+    "author": [
+      {
+        "family": "Landgraf",
+        "given": "M."
+      },
+      {
+        "family": "Baggaley",
+        "given": "W. J."
+      },
+      {
+        "family": "Grün",
+        "given": "E."
+      },
+      {
+        "family": "Krüger",
+        "given": "H."
+      },
+      {
+        "family": "Linkert",
+        "given": "G."
+      }
+    ],
+    "container-title": "J. Geophys. Res. Space Phys.",
+    "id": "landgraf2000",
+    "issue": "A5",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "10343-10352",
+    "title": "Aspects of the mass distribution of interstellar dust grains in the solar system from in situ measurements",
+    "type": "article-journal",
+    "volume": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Whittet",
+        "given": "D. C. B."
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Whittet_2010",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "page": "1009-1016",
+    "title": "OXYGEN DEPLETION IN THE INTERSTELLAR MEDIUM: IMPLICATIONS FOR GRAIN MODELS AND THE DISTRIBUTION OF ELEMENTAL OXYGEN",
+    "title-short": "OXYGEN DEPLETION IN THE INTERSTELLAR MEDIUM",
+    "type": "article-journal",
+    "volume": "710"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "A."
+      },
+      {
+        "family": "Greenberg",
+        "given": "J. M."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "ligreenberg1997",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          7
+        ]
+      ]
+    },
+    "page": "566-584",
+    "title": "A unified model of interstellar dust.",
+    "type": "article-journal",
+    "volume": "323"
+  },
+  {
+    "author": [
+      {
+        "family": "Bieler",
+        "given": "Andre"
+      },
+      {
+        "family": "Altwegg",
+        "given": "Kathrin"
+      },
+      {
+        "family": "Balsiger",
+        "given": "Hans"
+      },
+      {
+        "family": "Bar-Nun",
+        "given": "Akiva"
+      },
+      {
+        "family": "Berthelier",
+        "given": "J-J"
+      },
+      {
+        "family": "Bochsler",
+        "given": "Peter"
+      },
+      {
+        "family": "Briois",
+        "given": "Christelle"
+      },
+      {
+        "family": "Calmonte",
+        "given": "Ursina"
+      },
+      {
+        "family": "Combi",
+        "given": "M"
+      },
+      {
+        "family": "De Keyser",
+        "given": "J"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "bieler2015abundant",
+    "issue": "7575",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "678-681",
+    "publisher": "Nature Publishing Group",
+    "title": "Abundant molecular oxygen in the coma of comet 67P/churyumov–gerasimenko",
+    "type": "article-journal",
+    "volume": "526"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "van",
+        "family": "Dishoeck",
+        "given": "Ewine F."
+      },
+      {
+        "family": "Herbst",
+        "given": "Eric"
+      },
+      {
+        "family": "Neufeld",
+        "given": "David A."
+      }
+    ],
+    "container-title": "Chem. Rev.",
+    "id": "watreview2013",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "9043-9085",
+    "title": "Interstellar water chemistry: From laboratory to observations",
+    "title-short": "Interstellar water chemistry",
+    "type": "article-journal",
+    "volume": "113"
+  },
+  {
+    "author": [
+      {
+        "family": "Kouchi",
+        "given": "A."
+      },
+      {
+        "family": "Yamamoto",
+        "given": "T."
+      },
+      {
+        "family": "Kozasa",
+        "given": "T."
+      },
+      {
+        "family": "Kuroda",
+        "given": "T."
+      },
+      {
+        "family": "Greenberg",
+        "given": "J. M."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "kouchi1994",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    },
+    "page": "1009-1018",
+    "title": "Conditions for condensation and preservation of amorphous ice and crystallinity of astrophysical ices",
+    "type": "article-journal",
+    "volume": "290"
+  },
+  {
+    "author": [
+      {
+        "family": "Hobbs",
+        "given": "Peter V."
+      }
+    ],
+    "id": "hobbs1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "publisher": "Oxford Univ. Press, London",
+    "title": "Ice physics",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Cazaux, S."
+      },
+      {
+        "literal": "Cobut, V."
+      },
+      {
+        "literal": "Marseille, M."
+      },
+      {
+        "literal": "Spaans, M."
+      },
+      {
+        "literal": "Caselli, P."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "cazaux2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "A74",
+    "title": "Water formation on bare grains: When the chemistry on dust impacts interstellar gas",
+    "title-short": "Water formation on bare grains",
+    "type": "article-journal",
+    "volume": "522"
+  },
+  {
+    "author": [
+      {
+        "family": "Bergin",
+        "given": "Edwin A"
+      },
+      {
+        "family": "Melnick",
+        "given": "Gary J"
+      },
+      {
+        "family": "Neufeld",
+        "given": "David A"
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "bergin1998",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "777",
+    "publisher": "IOP Publishing",
+    "title": "The postshock chemical lifetimes of outflow tracers and a possible new mechanism to produce water ice mantles",
+    "type": "article-journal",
+    "volume": "499"
+  },
+  {
+    "author": [
+      {
+        "family": "Hollenbach",
+        "given": "David"
+      },
+      {
+        "family": "Kaufman",
+        "given": "Michael J"
+      },
+      {
+        "family": "Bergin",
+        "given": "Edwin A"
+      },
+      {
+        "family": "Melnick",
+        "given": "Gary J"
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "hollenbach2008",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "1497",
+    "publisher": "IOP Publishing",
+    "title": "Water, O2, and ice in molecular clouds",
+    "type": "article-journal",
+    "volume": "690"
+  },
+  {
+    "author": [
+      {
+        "family": "Ioppolo",
+        "given": "S."
+      },
+      {
+        "family": "Cuppen",
+        "given": "H. M."
+      },
+      {
+        "family": "Romanzin",
+        "given": "C."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Dishoeck",
+        "given": "E. F."
+      },
+      {
+        "family": "Linnartz",
+        "given": "H."
+      }
+    ],
+    "container-title": "Phys. Chem. Chem. Phys.",
+    "id": "cuppenioppolo2010-1",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "12065-12076",
+    "title": "Water formation at low temperatures by surface O2 hydrogenation i: Characterization of ice penetration",
+    "title-short": "Water formation at low temperatures by surface O2 hydrogenation i",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuppen",
+        "given": "H. M."
+      },
+      {
+        "family": "Ioppolo",
+        "given": "S."
+      },
+      {
+        "family": "Romanzin",
+        "given": "C."
+      },
+      {
+        "family": "Linnartz",
+        "given": "H."
+      }
+    ],
+    "container-title": "Phys. Chem. Chem. Phys.",
+    "id": "cuppenioppolo2010-2",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "12077-12088",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "Water formation at low temperatures by surface O2 hydrogenation II: The reaction network",
+    "title-short": "Water formation at low temperatures by surface O2 hydrogenation II",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Ioppolo",
+        "given": "S."
+      },
+      {
+        "family": "Cuppen",
+        "given": "H. M."
+      },
+      {
+        "family": "Romanzin",
+        "given": "C."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Dishoeck",
+        "given": "E. F."
+      },
+      {
+        "family": "Linnartz",
+        "given": "H."
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Ioppolo2008",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          10
+        ]
+      ]
+    },
+    "page": "1474-1479",
+    "publisher": "IOP Publishing",
+    "title": "Laboratory evidence for efficient water formation in interstellar ices",
+    "type": "article-journal",
+    "volume": "686"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuppen",
+        "given": "H. M."
+      },
+      {
+        "family": "Herbst",
+        "given": "Eric"
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Cuppen_2007",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          10
+        ]
+      ]
+    },
+    "page": "294-309",
+    "publisher": "IOP Publishing",
+    "title": "Simulation of the formation and morphology of ice mantles on interstellar grains",
+    "type": "article-journal",
+    "volume": "668"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "J."
+      },
+      {
+        "family": "Kasemo",
+        "given": "B."
+      }
+    ],
+    "container-title": "Surf. Sci",
+    "id": "hotatom",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "page": "L281 - L287",
+    "title": "On precursor mechanisms for surface reactions",
+    "type": "article-journal",
+    "volume": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillett",
+        "given": "F. C."
+      },
+      {
+        "family": "Forrest",
+        "given": "W. J."
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "gillett1973",
+    "issued": {
+      "date-parts": [
+        [
+          1973,
+          1
+        ]
+      ]
+    },
+    "page": "483",
+    "title": "Spectra of the Becklin-Neugebauer point source and the Kleinmann-Low nebula from 2.8 to 13.5 microns.",
+    "type": "article-journal",
+    "volume": "179"
+  },
+  {
+    "author": [
+      {
+        "family": "Accolla",
+        "given": "Mario"
+      },
+      {
+        "family": "Congiu",
+        "given": "Emanuele"
+      },
+      {
+        "family": "Dulieu",
+        "given": "François"
+      },
+      {
+        "family": "Manicò",
+        "given": "Giulio"
+      },
+      {
+        "family": "Chaabouni",
+        "given": "Henda"
+      },
+      {
+        "family": "Matar",
+        "given": "Elie"
+      },
+      {
+        "family": "Mokrane",
+        "given": "Hakima"
+      },
+      {
+        "family": "Lemaire",
+        "given": "Jean Louis"
+      },
+      {
+        "family": "Pirronello",
+        "given": "Valerio"
+      }
+    ],
+    "container-title": "Phys. Chem. Chem. Phys.",
+    "id": "accolla2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "8037-8045",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "Changes in the morphology of interstellar ice analogues after hydrogen atom exposure",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "author": [
+      {
+        "literal": "Larsson, B."
+      },
+      {
+        "literal": "Liseau, R."
+      },
+      {
+        "literal": "Pagani, L."
+      },
+      {
+        "literal": "Bergman, P."
+      },
+      {
+        "literal": "Bernath, P."
+      },
+      {
+        "literal": "Biver, N."
+      },
+      {
+        "literal": "Black, J. H."
+      },
+      {
+        "literal": "Booth, R. S."
+      },
+      {
+        "literal": "Buat, V."
+      },
+      {
+        "literal": "Crovisier, J."
+      },
+      {
+        "literal": "Curry, C. L."
+      },
+      {
+        "literal": "Dahlgren, M."
+      },
+      {
+        "literal": "Encrenaz, P. J."
+      },
+      {
+        "literal": "Falgarone, E."
+      },
+      {
+        "literal": "Feldman, P. A."
+      },
+      {
+        "literal": "Fich, M."
+      },
+      {
+        "literal": "Florén, H. G."
+      },
+      {
+        "literal": "Fredrixon, M."
+      },
+      {
+        "literal": "Frisk, U."
+      },
+      {
+        "literal": "Gahm, G. F."
+      },
+      {
+        "literal": "Gerin, M."
+      },
+      {
+        "literal": "Hagström, M."
+      },
+      {
+        "literal": "Harju, J."
+      },
+      {
+        "literal": "Hasegawa, T."
+      },
+      {
+        "literal": "Hjalmarson, Å."
+      },
+      {
+        "literal": "Johansson, L. E. B."
+      },
+      {
+        "literal": "Justtanont, K."
+      },
+      {
+        "literal": "Klotz, A."
+      },
+      {
+        "literal": "Kyrölä, E."
+      },
+      {
+        "literal": "Kwok, S."
+      },
+      {
+        "literal": "Lecacheux, A."
+      },
+      {
+        "literal": "Liljeström, T."
+      },
+      {
+        "literal": "Llewellyn, E. J."
+      },
+      {
+        "literal": "Lundin, S."
+      },
+      {
+        "literal": "Mégie, G."
+      },
+      {
+        "literal": "Mitchell, G. F."
+      },
+      {
+        "literal": "Murtagh, D."
+      },
+      {
+        "literal": "Nordh, L. H."
+      },
+      {
+        "literal": "Nyman, L.-Å."
+      },
+      {
+        "literal": "Olberg, M."
+      },
+      {
+        "literal": "Olofsson, A. O. H."
+      },
+      {
+        "literal": "Olofsson, G."
+      },
+      {
+        "literal": "Olofsson, H."
+      },
+      {
+        "literal": "Persson, G."
+      },
+      {
+        "literal": "Plume, R."
+      },
+      {
+        "literal": "Rickman, H."
+      },
+      {
+        "literal": "Ristorcelli, I."
+      },
+      {
+        "literal": "Rydbeck, G."
+      },
+      {
+        "literal": "Sandqvist, A. A."
+      },
+      {
+        "literal": "Schéele, F. V."
+      },
+      {
+        "literal": "Serra, G."
+      },
+      {
+        "literal": "Torchinsky, S."
+      },
+      {
+        "literal": "Tothill, N. F."
+      },
+      {
+        "literal": "Volk, K."
+      },
+      {
+        "literal": "Wiklind, T."
+      },
+      {
+        "literal": "Wilson, C. D."
+      },
+      {
+        "literal": "Winnberg, A."
+      },
+      {
+        "literal": "Witt, G."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "o2obs2007",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "999-1003",
+    "title": "Molecular oxygen in the ophiuchi cloud",
+    "type": "article-journal",
+    "volume": "466"
+  },
+  {
+    "author": [
+      {
+        "literal": "Liseau, R."
+      },
+      {
+        "literal": "Goldsmith, P. F."
+      },
+      {
+        "literal": "Larsson, B."
+      },
+      {
+        "literal": "Pagani, L."
+      },
+      {
+        "literal": "Bergman, P."
+      },
+      {
+        "literal": "Le Bourlot, J."
+      },
+      {
+        "literal": "Bell, T. A."
+      },
+      {
+        "literal": "Benz, A. O."
+      },
+      {
+        "literal": "Bergin, E. A."
+      },
+      {
+        "literal": "Bjerkeli, P."
+      },
+      {
+        "literal": "Black, J. H."
+      },
+      {
+        "literal": "Bruderer, S."
+      },
+      {
+        "literal": "Caselli, P."
+      },
+      {
+        "literal": "Caux, E."
+      },
+      {
+        "literal": "Chen, J.-H."
+      },
+      {
+        "literal": "de Luca, M."
+      },
+      {
+        "literal": "Encrenaz, P."
+      },
+      {
+        "literal": "Falgarone, E."
+      },
+      {
+        "literal": "Gerin, M."
+      },
+      {
+        "literal": "Goicoechea, J. R."
+      },
+      {
+        "literal": "Hjalmarson, Å."
+      },
+      {
+        "literal": "Hollenbach, D. J."
+      },
+      {
+        "literal": "Justtanont, K."
+      },
+      {
+        "literal": "Kaufman, M. J."
+      },
+      {
+        "literal": "Le Petit, F."
+      },
+      {
+        "literal": "Li, D."
+      },
+      {
+        "literal": "Lis, D. C."
+      },
+      {
+        "literal": "Melnick, G. J."
+      },
+      {
+        "literal": "Nagy, Z."
+      },
+      {
+        "literal": "Olofsson, A. O. H."
+      },
+      {
+        "literal": "Olofsson, G."
+      },
+      {
+        "literal": "Roueff, E."
+      },
+      {
+        "literal": "Sandqvist, Aa."
+      },
+      {
+        "literal": "Snell, R. L."
+      },
+      {
+        "literal": "van der Tak, F. F. S."
+      },
+      {
+        "literal": "van Dishoeck, E. F."
+      },
+      {
+        "literal": "Vastel, C."
+      },
+      {
+        "literal": "Viti, S."
+      },
+      {
+        "literal": "Yildiz, U. A."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "o2obs2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "A73",
+    "title": "Multi-line detection of O2 toward iuchi a",
+    "type": "article-journal",
+    "volume": "541"
+  },
+  {
+    "author": [
+      {
+        "literal": "Pagani, L."
+      },
+      {
+        "literal": "Olofsson, A. O. H."
+      },
+      {
+        "literal": "Bergman, P."
+      },
+      {
+        "literal": "Bernath, P."
+      },
+      {
+        "literal": "Black, J. H."
+      },
+      {
+        "literal": "Booth, R. S."
+      },
+      {
+        "literal": "Buat, V."
+      },
+      {
+        "literal": "Crovisier, J."
+      },
+      {
+        "literal": "Curry, C. L."
+      },
+      {
+        "literal": "Encrenaz, P. J."
+      },
+      {
+        "literal": "Falgarone, E."
+      },
+      {
+        "literal": "Feldman, P. A."
+      },
+      {
+        "literal": "Fich, M."
+      },
+      {
+        "literal": "Floren, H. G."
+      },
+      {
+        "literal": "Frisk, U."
+      },
+      {
+        "literal": "Gerin, M."
+      },
+      {
+        "literal": "Gregersen, E. M."
+      },
+      {
+        "literal": "Harju, J."
+      },
+      {
+        "literal": "Hasegawa, T."
+      },
+      {
+        "literal": "Hjalmarson, Å."
+      },
+      {
+        "literal": "Johansson, L. E. B."
+      },
+      {
+        "literal": "Kwok, S."
+      },
+      {
+        "literal": "Larsson, B."
+      },
+      {
+        "literal": "Lecacheux, A."
+      },
+      {
+        "literal": "Liljeström, T."
+      },
+      {
+        "literal": "Lindqvist, M."
+      },
+      {
+        "literal": "Liseau, R."
+      },
+      {
+        "literal": "Mattila, K."
+      },
+      {
+        "literal": "Mitchell, G. F."
+      },
+      {
+        "literal": "Nordh, L. H."
+      },
+      {
+        "literal": "Olberg, M."
+      },
+      {
+        "literal": "Olofsson, G."
+      },
+      {
+        "literal": "Ristorcelli, I."
+      },
+      {
+        "literal": "Sandqvist, Aa."
+      },
+      {
+        "literal": "von Scheele, F."
+      },
+      {
+        "literal": "Serra, G."
+      },
+      {
+        "literal": "Tothill, N. F."
+      },
+      {
+        "literal": "Volk, K."
+      },
+      {
+        "literal": "Wiklind, T."
+      },
+      {
+        "literal": "Wilson, C. D."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "o2estimate2003",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "L77-L81",
+    "title": "Low upper limits on the O2 abundance from the odin satellite",
+    "type": "article-journal",
+    "volume": "402"
+  },
+  {
+    "author": [
+      {
+        "family": "Markwick",
+        "given": "A. J."
+      },
+      {
+        "family": "Millar",
+        "given": "T. J."
+      },
+      {
+        "family": "Charnley",
+        "given": "S. B."
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Markwick_2000",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          5
+        ]
+      ]
+    },
+    "page": "256-265",
+    "publisher": "IOP Publishing",
+    "title": "On the abundance gradients of organic molecules along the TMC-1 ridge",
+    "type": "article-journal",
+    "volume": "535"
+  },
+  {
+    "author": [
+      {
+        "family": "Cardell",
+        "given": "Jason A."
+      },
+      {
+        "family": "Mathis",
+        "given": "John S."
+      },
+      {
+        "family": "Ebbets",
+        "given": "Dennis C."
+      },
+      {
+        "family": "Savage",
+        "given": "Blair D."
+      }
+    ],
+    "container-title": "Astrophys. J. Lett.",
+    "id": "cardelli_1993",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "L17-L20",
+    "publisher": "IOP Publishing",
+    "title": "Abundance of interstellar carbon toward zeta ophiuchi",
+    "type": "article-journal",
+    "volume": "402"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuppen",
+        "given": "H. M."
+      },
+      {
+        "family": "Hornekær",
+        "given": "Liv"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "cuppenhornek2008",
+    "issue": "17",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "174707",
+    "publisher": "AMER INST PHYSICS",
+    "title": "Kinetic monte carlo studies of hydrogen abstraction from graphite",
+    "type": "article-journal",
+    "volume": "128"
+  },
+  {
+    "author": [
+      {
+        "family": "Agúndez",
+        "given": "Marcelino"
+      },
+      {
+        "family": "Wakelam",
+        "given": "Valentine"
+      }
+    ],
+    "container-title": "Chem. Rev.",
+    "id": "wakelamrev",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "8710-8737",
+    "title": "Chemistry of dark clouds: Databases, networks, and models",
+    "title-short": "Chemistry of dark clouds",
+    "type": "article-journal",
+    "volume": "113"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibb",
+        "given": "E. L."
+      },
+      {
+        "family": "Whittet",
+        "given": "D. C. B."
+      },
+      {
+        "family": "Boogert",
+        "given": "A. C. A."
+      },
+      {
+        "family": "Tielens",
+        "given": "A. G. G. M."
+      }
+    ],
+    "container-title": "Astrophys. J., Suppl. Ser.",
+    "id": "Gibb_2004",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          3
+        ]
+      ]
+    },
+    "page": "35-73",
+    "publisher": "IOP Publishing",
+    "title": "Interstellar ice: <i>The infrared space observatory legacy</i>",
+    "title-short": "Interstellar ice",
+    "type": "article-journal",
+    "volume": "151"
+  },
+  {
+    "author": [
+      {
+        "family": "Mousavipour",
+        "given": "Seyed Hosein"
+      },
+      {
+        "family": "Saheb",
+        "given": "Vahid"
+      }
+    ],
+    "container-title": "Bull. Chem. Soc. Jpn.",
+    "id": "Mousavipour2007",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "1901-1913",
+    "title": "Theoretical study on the kinetic and mechanism of h+HO2 reaction",
+    "type": "article-journal",
+    "volume": "80"
+  },
+  {
+    "author": [
+      {
+        "family": "Ioppolo",
+        "given": "S."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Boheemen",
+        "given": "Y."
+      },
+      {
+        "family": "Cuppen",
+        "given": "H. M."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Dishoeck",
+        "given": "E. F."
+      },
+      {
+        "family": "Linnartz",
+        "given": "H."
+      }
+    ],
+    "container-title": "Mon. Not. R. Astron. Soc.",
+    "id": "ioppolo2011",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    },
+    "page": "2281-2287",
+    "title": "Surface formation of CO2 ice at low temperatures",
+    "type": "article-journal",
+    "volume": "413"
+  },
+  {
+    "author": [
+      {
+        "family": "Carty",
+        "given": "David"
+      },
+      {
+        "family": "Goddard",
+        "given": "Andrew"
+      },
+      {
+        "family": "Köhler",
+        "given": "Sven P. K."
+      },
+      {
+        "family": "Sims",
+        "given": "Ian R."
+      },
+      {
+        "family": "Smith",
+        "given": "Ian W. M."
+      }
+    ],
+    "container-title": "J. Phys. Chem. A",
+    "id": "carty2006",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "3101-3109",
+    "title": "Kinetics of the radical−radical reaction, o(^3p_J) + OH(x^2\\Pi_{\\Omega}) \\rightarrow o_2 + h, at temperatures down to 39 k",
+    "type": "article-journal",
+    "volume": "110"
+  },
+  {
+    "author": [
+      {
+        "family": "Davidsson",
+        "given": "J"
+      },
+      {
+        "family": "Stenholm",
+        "given": "LG"
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "davidsson1990",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "504-508",
+    "title": "Improved rates for the o+ OH yields O2+ h reaction",
+    "type": "article-journal",
+    "volume": "230"
+  },
+  {
+    "author": [
+      {
+        "literal": "Müller, B."
+      },
+      {
+        "literal": "Giuliano, B. M."
+      },
+      {
+        "literal": "Bizzocchi, L."
+      },
+      {
+        "literal": "Vasyunin, A. I."
+      },
+      {
+        "literal": "Caselli, P."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "caselli2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "A46",
+    "title": "O_2 signature in thin and thick  ices",
+    "type": "article-journal",
+    "volume": "620"
+  },
+  {
+    "author": [
+      {
+        "literal": "Dulieu, F."
+      },
+      {
+        "literal": "Minissale, M."
+      },
+      {
+        "literal": "Bockelée-Morvan, D."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "dulieu2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "A56",
+    "title": "Production of O2 through dismutation of H2O2 during water ice desorption: A key to understanding comet O2 abundances",
+    "title-short": "Production of O2 through dismutation of H2O2 during water ice desorption",
+    "type": "article-journal",
+    "volume": "597"
+  },
+  {
+    "author": [
+      {
+        "literal": "Minissale, M."
+      },
+      {
+        "literal": "Nguyen, T."
+      },
+      {
+        "literal": "Dulieu, F."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "minissale2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "A148",
+    "title": "Experimental study of the penetration of oxygen and deuterium atoms into porous water ice",
+    "type": "article-journal",
+    "volume": "622"
+  },
+  {
+    "author": [
+      {
+        "literal": "Minissale, M."
+      },
+      {
+        "literal": "Congiu, E."
+      },
+      {
+        "literal": "Dulieu, F."
+      }
+    ],
+    "container-title": "Astron. Astrophys.",
+    "id": "minissale2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "A146",
+    "title": "Direct measurement of desorption and diffusion energies of o and n atoms physisorbed on amorphous surfaces",
+    "type": "article-journal",
+    "volume": "585"
+  },
+  {
+    "author": [
+      {
+        "family": "Minissale",
+        "given": "M."
+      },
+      {
+        "family": "Congiu",
+        "given": "E."
+      },
+      {
+        "family": "Baouche",
+        "given": "S."
+      },
+      {
+        "family": "Chaabouni",
+        "given": "H."
+      },
+      {
+        "family": "Moudens",
+        "given": "A."
+      },
+      {
+        "family": "Dulieu",
+        "given": "F."
+      },
+      {
+        "family": "Accolla",
+        "given": "M."
+      },
+      {
+        "family": "Cazaux",
+        "given": "S."
+      },
+      {
+        "family": "Manicó",
+        "given": "G."
+      },
+      {
+        "family": "Pirronello",
+        "given": "V."
+      }
+    ],
+    "container-title": "Phys. Rev. Lett.",
+    "id": "minissale2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          7
+        ]
+      ]
+    },
+    "page": "053201",
+    "publisher": "American Physical Society",
+    "title": "Quantum tunneling of oxygen atoms on very cold surfaces",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Chou",
+        "given": "Sheng-Lung"
+      },
+      {
+        "family": "Lo",
+        "given": "Jen-Iu"
+      },
+      {
+        "family": "Peng",
+        "given": "Yu-Chain"
+      },
+      {
+        "family": "Lu",
+        "given": "Hsiao-Chi"
+      },
+      {
+        "family": "Cheng",
+        "given": "Bing-Ming"
+      },
+      {
+        "family": "Ogilvie",
+        "given": "J. F."
+      }
+    ],
+    "container-title": "Phys. Chem. Chem. Phys.",
+    "id": "ogilvie:2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "7730-7738",
+    "title": "Photolysis of o_2 dispersed in solid neon with far-ultraviolet radiation",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "Farooq",
+        "given": "Zahid"
+      },
+      {
+        "family": "Chestakov",
+        "given": "Dimitri A."
+      },
+      {
+        "family": "Yan",
+        "given": "Bin"
+      },
+      {
+        "family": "Groenenboom",
+        "given": "Gerrit C."
+      },
+      {
+        "dropping-particle": "van der",
+        "family": "Zande",
+        "given": "Wim J."
+      },
+      {
+        "family": "Parker",
+        "given": "David H."
+      }
+    ],
+    "container-title": "Phys. Chem. Chem. Phys.",
+    "id": "parker:2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "3305-3316",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "Photodissociation of singlet oxygen in the UV region",
+    "type": "article-journal",
+    "volume": "16"
+  },
+  {
+    "author": [
+      {
+        "family": "Jongma",
+        "given": "Rienk T."
+      },
+      {
+        "family": "Shi",
+        "given": "Shiming"
+      },
+      {
+        "family": "Wodtke",
+        "given": "Alec M."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "wodtke:1999",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "2588-2594",
+    "title": "Electronic nonadiabaticity in highly vibrationally excited o_2(X^3\\Sigma^-_g): Spin-orbit coupling between X^3\\Sigma^-_g and ^1\\Sigma^+_g",
+    "title-short": "Electronic nonadiabaticity in highly vibrationally excited o_2(X^3\\Sigma^-_g)",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Minaev",
+        "given": "B. F."
+      },
+      {
+        "family": "Yashchuk",
+        "given": "L. B."
+      }
+    ],
+    "container-title": "Opt. Spectrosc",
+    "id": "minaev2003",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "553-559",
+    "title": "Spin-orbit coupling in oxygen near the dissociation limit",
+    "type": "article-journal",
+    "volume": "95"
+  },
+  {
+    "author": [
+      {
+        "family": "Dayou",
+        "given": "Fabrice"
+      },
+      {
+        "family": "Hernández",
+        "given": "Marta I."
+      },
+      {
+        "family": "Campos-Martínez",
+        "given": "José"
+      },
+      {
+        "family": "Hernández-Lamoneda",
+        "given": "Ramón"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "dayou2005",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "074311",
+    "title": "Spin-orbit coupling in o_2(\\nu)+o_2 collisions: I. Electronic structure calculations on dimer states involving the X^3\\Sigma^-_g, a^1\\Delta^+_g, and b^1\\Sigma^+_g states of o_2",
+    "title-short": "Spin-orbit coupling in o_2(\\nu)+o_2 collisions",
+    "type": "article-journal",
+    "volume": "123"
+  },
+  {
+    "author": [
+      {
+        "family": "Langmuir",
+        "given": "Irving"
+      }
+    ],
+    "container-title": "Trans. Faraday Soc.",
+    "id": "langmuir1922",
+    "issued": {
+      "date-parts": [
+        [
+          1922
+        ]
+      ]
+    },
+    "page": "621-654",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "The mechanism of the catalytic action of platinum in the reactions 2Co + O2= 2Co2 and 2H2+ O2= 2H2O",
+    "type": "article-journal",
+    "volume": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "Stillinger",
+        "given": "Frank H."
+      }
+    ],
+    "container-title": "Science",
+    "id": "Stillinger1995",
+    "issue": "5206",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "1935-1939",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "A topographic view of supercooled liquids and glass formation",
+    "type": "article-journal",
+    "volume": "267"
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "Hoi Sung"
+      },
+      {
+        "family": "Piana-Agostinetti",
+        "given": "Stefano"
+      },
+      {
+        "family": "Shaw",
+        "given": "David E."
+      },
+      {
+        "family": "Eaton",
+        "given": "William A."
+      }
+    ],
+    "container-title": "Science",
+    "id": "Chung2015",
+    "issue": "6255",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1504-1510",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "Structural origin of slow diffusion in protein folding",
+    "type": "article-journal",
+    "volume": "349"
+  },
+  {
+    "DOI": "10.1073/pnas.85.7.2029",
+    "author": [
+      {
+        "family": "Zwanzig",
+        "given": "R"
+      }
+    ],
+    "container-title": "Proc. Natl. Acad. Sci.",
+    "id": "Zwanzig1988",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "2029-2030",
+    "publisher": "National Academy of Sciences",
+    "title": "Diffusion in a rough potential",
+    "type": "article-journal",
+    "volume": "85"
+  },
+  {
+    "author": [
+      {
+        "family": "Hama",
+        "given": "Tetsuya"
+      },
+      {
+        "family": "Watanabe",
+        "given": "Naoki"
+      }
+    ],
+    "container-title": "Chem. Rev.",
+    "id": "hama2013",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "8783-8839",
+    "title": "Surface processes on interstellar amorphous solid water: Adsorption, diffusion, tunneling reactions, and nuclear-spin conversion",
+    "title-short": "Surface processes on interstellar amorphous solid water",
+    "type": "article-journal",
+    "volume": "113"
+  },
+  {
+    "author": [
+      {
+        "family": "Dausinger",
+        "given": "F."
+      },
+      {
+        "family": "Schultz",
+        "given": "H."
+      }
+    ],
+    "container-title": "Phys. Rev. Lett.",
+    "id": "dausinger1975",
+    "issued": {
+      "date-parts": [
+        [
+          1975,
+          12
+        ]
+      ]
+    },
+    "page": "1773-1775",
+    "publisher": "American Physical Society",
+    "title": "Long-range migration of self-interstitial atoms in tungsten",
+    "type": "article-journal",
+    "volume": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "Swinburne",
+        "given": "Thomas D"
+      },
+      {
+        "family": "Ma",
+        "given": "Pui-Wai"
+      },
+      {
+        "family": "Dudarev",
+        "given": "Sergei L"
+      }
+    ],
+    "container-title": "New J. Phys.",
+    "id": "Swinburne_2017",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "page": "073024",
+    "publisher": "IOP Publishing",
+    "title": "Low temperature diffusivity of self-interstitial defects in tungsten",
+    "type": "article-journal",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuwahata",
+        "given": "K."
+      },
+      {
+        "family": "Hama",
+        "given": "T."
+      },
+      {
+        "family": "Kouchi",
+        "given": "A."
+      },
+      {
+        "family": "Watanabe",
+        "given": "N."
+      }
+    ],
+    "container-title": "Phys. Rev. Lett.",
+    "id": "watanabe2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "page": "133201",
+    "publisher": "American Physical Society",
+    "title": "Signatures of quantum-tunneling diffusion of hydrogen atoms on water ice at 10 k",
+    "type": "article-journal",
+    "volume": "115"
+  },
+  {
+    "author": [
+      {
+        "family": "Ásgeirsson",
+        "given": "V."
+      },
+      {
+        "family": "Jónsson",
+        "given": "H."
+      },
+      {
+        "family": "Wikfeldt",
+        "given": "K. T."
+      }
+    ],
+    "container-title": "J. Phys. Chem. C",
+    "id": "asgeirsson2017",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1648-1657",
+    "title": "Long-time scale simulations of tunneling-assisted diffusion of hydrogen on ice surfaces at low temperature",
+    "type": "article-journal",
+    "volume": "121"
+  },
+  {
+    "author": [
+      {
+        "family": "Senevirathne",
+        "given": "Bethmini"
+      },
+      {
+        "family": "Andersson",
+        "given": "Stefan"
+      },
+      {
+        "family": "Dulieu",
+        "given": "Francois"
+      },
+      {
+        "family": "Nyman",
+        "given": "Gunnar"
+      }
+    ],
+    "container-title": "Mol. Astrophys.",
+    "id": "Senevirathne2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "59 - 69",
+    "title": "Hydrogen atom mobility, kinetic isotope effects and tunneling on interstellar ices (ih and ASW)",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "Smoluchowski",
+        "given": "R"
+      }
+    ],
+    "container-title": "J. Phys. Chem.",
+    "id": "smoluchowski1983",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "4229-4233",
+    "publisher": "ACS Publications",
+    "title": "Adsorption and mobility on amorphous surfaces. Application to astrophysical problems",
+    "type": "article-journal",
+    "volume": "87"
+  },
+  {
+    "author": [
+      {
+        "family": "Plattner",
+        "given": "Nuria"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "ChemPhysChem",
+    "id": "plattner2008",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "keyword": "astrochemistry, distributed multipole analysis, IR spectroscopy, interstellar ice, molecular dynamics",
+    "page": "1271-1277",
+    "title": "Atomistic simulations of CO vibrations in ices relevant to astrochemistry",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "Prashant Kumar"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "Faraday Discuss.",
+    "id": "gupta2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "329-346",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "Dynamics and vibrational spectroscopy of water at hydroxylated silica surfaces",
+    "type": "article-journal",
+    "volume": "167"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Myung Won"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "Faraday Discuss.",
+    "id": "wonlee2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "205-222",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "Diffusion of atomic oxygen relevant to water formation in amorphous interstellar ices",
+    "type": "article-journal",
+    "volume": "168"
+  },
+  {
+    "author": [
+      {
+        "family": "Jorgensen",
+        "given": "William L."
+      },
+      {
+        "family": "Chandrasekhar",
+        "given": "Jayaraman"
+      },
+      {
+        "family": "Madura",
+        "given": "Jeffry D."
+      },
+      {
+        "family": "Impey",
+        "given": "Roger W."
+      },
+      {
+        "family": "Klein",
+        "given": "Michael L."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "tip3p",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "926-935",
+    "title": "Comparison of simple potential functions for simulating liquid water",
+    "type": "article-journal",
+    "volume": "79"
+  },
+  {
+    "author": [
+      {
+        "family": "Perutz",
+        "given": "MF"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "perutz1970",
+    "issue": "5273",
+    "issued": {
+      "date-parts": [
+        [
+          1970
+        ]
+      ]
+    },
+    "page": "726-734",
+    "publisher": "Nature Publishing Group",
+    "title": "Stereochemistry of cooperative effects in haemoglobin: Haem–haem interaction and the problem of allostery",
+    "title-short": "Stereochemistry of cooperative effects in haemoglobin",
+    "type": "article-journal",
+    "volume": "228"
+  },
+  {
+    "author": [
+      {
+        "family": "Perutz",
+        "given": "Max F"
+      },
+      {
+        "family": "Rossmann",
+        "given": "Michael G"
+      },
+      {
+        "family": "Cullis",
+        "given": "Ann F"
+      },
+      {
+        "family": "Muirhead",
+        "given": "Hilary"
+      },
+      {
+        "family": "Will",
+        "given": "Georg"
+      },
+      {
+        "family": "North",
+        "given": "ACT"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "perutz1960",
+    "issue": "4711",
+    "issued": {
+      "date-parts": [
+        [
+          1960
+        ]
+      ]
+    },
+    "page": "416-422",
+    "publisher": "Springer",
+    "title": "Structure of hæmoglobin: A three-dimensional fourier synthesis at 5.5-Å. Resolution, obtained by x-ray analysis",
+    "title-short": "Structure of hæmoglobin",
+    "type": "article-journal",
+    "volume": "185"
+  },
+  {
+    "author": [
+      {
+        "family": "Baldwin",
+        "given": "Joyce"
+      },
+      {
+        "family": "Chothia",
+        "given": "Cyrus"
+      }
+    ],
+    "container-title": "J. Mol. Biol",
+    "id": "BALDWIN1979",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "page": "175 - 220",
+    "title": "Haemoglobin: The structural changes related to ligand binding and its allosteric mechanism",
+    "title-short": "Haemoglobin",
+    "type": "article-journal",
+    "volume": "129"
+  },
+  {
+    "author": [
+      {
+        "family": "Bettati",
+        "given": "Stefano"
+      },
+      {
+        "family": "Mozzarelli",
+        "given": "Andrea"
+      },
+      {
+        "family": "Perutz",
+        "given": "Max F"
+      }
+    ],
+    "container-title": "J. Mol. Biol",
+    "id": "BETTATI1998",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "581 - 585",
+    "title": "Allosteric mechanism of haemoglobin: Rupture of salt-bridges raises the oxygen affinity of the t-structure",
+    "title-short": "Allosteric mechanism of haemoglobin",
+    "type": "article-journal",
+    "volume": "281"
+  },
+  {
+    "container-title": "J. Mol. Biol",
+    "id": "SZABO1972",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "page": "163 - 197",
+    "title": "A mathematical model for structure-function relations in hemoglobin",
+    "type": "article-journal",
+    "volume": "72"
+  },
+  {
+    "author": [
+      {
+        "family": "McCammon",
+        "given": "J Andrew"
+      },
+      {
+        "family": "Gelin",
+        "given": "Bruce R"
+      },
+      {
+        "family": "Karplus",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "mccammon1977",
+    "issue": "5612",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "585-590",
+    "publisher": "Springer",
+    "title": "Dynamics of folded proteins",
+    "type": "article-journal",
+    "volume": "267"
+  },
+  {
+    "author": [
+      {
+        "family": "Hub",
+        "given": "Jochen S"
+      },
+      {
+        "family": "Kubitzki",
+        "given": "Marcus B"
+      },
+      {
+        "family": "De Groot",
+        "given": "Bert L"
+      }
+    ],
+    "container-title": "PLOS Comput. Biol",
+    "id": "hub2010",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "1",
+    "publisher": "Public Library of Science",
+    "title": "Spontaneous quaternary and tertiary TR transitions of human hemoglobin in molecular dynamics simulation",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "Yusuff",
+        "given": "Olaniyi K."
+      },
+      {
+        "family": "Babalola",
+        "given": "Jonathan O."
+      },
+      {
+        "family": "Bussi",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Raugei",
+        "given": "Simone"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "yussuff2012",
+    "issue": "36",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "11004-11009",
+    "title": "Role of the subunit interactions in the conformational transitions in adult human hemoglobin: An explicit solvent molecular dynamics study",
+    "title-short": "Role of the subunit interactions in the conformational transitions in adult human hemoglobin",
+    "type": "article-journal",
+    "volume": "116"
+  },
+  {
+    "author": [
+      {
+        "family": "Edelstein",
+        "given": "Stuart J"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "edelstein1971",
+    "issue": "5291",
+    "issued": {
+      "date-parts": [
+        [
+          1971
+        ]
+      ]
+    },
+    "page": "224-227",
+    "publisher": "Nature Publishing Group",
+    "title": "Extensions of the allosteric model for haemoglobin",
+    "type": "article-journal",
+    "volume": "230"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "John O"
+      },
+      {
+        "family": "Edelstein",
+        "given": "Stuart J"
+      }
+    ],
+    "container-title": "J. Biol. Chem.",
+    "id": "thomas1972",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "page": "7870-7874",
+    "publisher": "ASBMB",
+    "title": "Observation of the dissociation of unliganded hemoglobin",
+    "type": "article-journal",
+    "volume": "247"
+  },
+  {
+    "author": [
+      {
+        "family": "Sawicki",
+        "given": "CA"
+      },
+      {
+        "family": "Gibson",
+        "given": "QH"
+      }
+    ],
+    "container-title": "J. Biol. Chem.",
+    "id": "sawicki1976",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "page": "1533-1542",
+    "publisher": "ASBMB",
+    "title": "Quaternary conformational changes in human hemoglobin studied by laser photolysis of carboxyhemoglobin.",
+    "type": "article-journal",
+    "volume": "251"
+  },
+  {
+    "author": [
+      {
+        "family": "El Hage",
+        "given": "Krystel"
+      },
+      {
+        "family": "Hédin",
+        "given": "Florent"
+      },
+      {
+        "family": "Gupta",
+        "given": "Prashant K"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      },
+      {
+        "family": "Karplus",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "eLife",
+    "editor": [
+      {
+        "family": "Shan",
+        "given": "Yibing"
+      }
+    ],
+    "id": "eLife-krystel",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "page": "e35560",
+    "publisher": "eLife Sciences Publications, Ltd",
+    "title": "Valid molecular dynamics simulations of human hemoglobin require a surprisingly large box size",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "Yuen-Kit"
+      },
+      {
+        "family": "Rossky",
+        "given": "Peter J"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "rossky1998",
+    "issue": "6677",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "696",
+    "publisher": "Nature Publishing Group",
+    "title": "Surface topography dependence of biomolecular hydrophobic hydration",
+    "type": "article-journal",
+    "volume": "392"
+  },
+  {
+    "author": [
+      {
+        "family": "Dobson",
+        "given": "Christopher M"
+      },
+      {
+        "family": "Šali",
+        "given": "Andrej"
+      },
+      {
+        "family": "Karplus",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "Angew. Chem",
+    "id": "dobson1998",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "868-893",
+    "publisher": "Wiley Online Library",
+    "title": "Protein folding: A perspective from theory and experiment",
+    "title-short": "Protein folding",
+    "type": "article-journal",
+    "volume": "37"
+  },
+  {
+    "author": [
+      {
+        "family": "Israelachvili",
+        "given": "Jacob N"
+      },
+      {
+        "family": "Mitchell",
+        "given": "D John"
+      },
+      {
+        "family": "Ninham",
+        "given": "Barry W"
+      }
+    ],
+    "container-title": "J. Chem. Soc., Faraday Trans. 2",
+    "id": "israelachvili1976",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "page": "1525-1568",
+    "publisher": "Royal Society of Chemistry",
+    "title": "Theory of self-assembly of hydrocarbon amphiphiles into micelles and bilayers",
+    "type": "article-journal",
+    "volume": "72"
+  },
+  {
+    "author": [
+      {
+        "family": "Teeter",
+        "given": "Martha M"
+      }
+    ],
+    "container-title": "Annu Rev Biophys Biophys Chem",
+    "id": "teeter1991",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "577-600",
+    "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+    "title": "Water-protein interactions: Theory and experiment",
+    "title-short": "Water-protein interactions",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "Sharp",
+        "given": "Kim A"
+      },
+      {
+        "family": "Nicholls",
+        "given": "Anthony"
+      },
+      {
+        "family": "Fine",
+        "given": "Richard F"
+      },
+      {
+        "family": "Honig",
+        "given": "Barry"
+      }
+    ],
+    "container-title": "Science",
+    "id": "sharp1991",
+    "issue": "5002",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "106-109",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "Reconciling the magnitude of the microscopic and macroscopic hydrophobic effects",
+    "type": "article-journal",
+    "volume": "252"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossky",
+        "given": "Peter J"
+      }
+    ],
+    "container-title": "Faraday Discuss.",
+    "id": "rossky2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "13-18",
+    "publisher": "Royal Society of Chemistry",
+    "title": "Exploring nanoscale hydrophobic hydration",
+    "type": "article-journal",
+    "volume": "146"
+  },
+  {
+    "author": [
+      {
+        "family": "Toney",
+        "given": "Michael F."
+      },
+      {
+        "family": "Howard",
+        "given": "Jason N."
+      },
+      {
+        "family": "Richer",
+        "given": "Jocelyn"
+      },
+      {
+        "family": "Borges",
+        "given": "Gary L."
+      },
+      {
+        "family": "Gordon",
+        "given": "Joseph G."
+      },
+      {
+        "family": "Melroy",
+        "given": "Owen R."
+      },
+      {
+        "family": "Wiesler",
+        "given": "David G."
+      },
+      {
+        "family": "Yee",
+        "given": "Dennis"
+      },
+      {
+        "family": "Sorensen",
+        "given": "Larry B."
+      }
+    ],
+    "container-title": "Surf. Sci",
+    "id": "TONEY1995",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "326 - 332",
+    "title": "Distribution of water molecules at ag(111)/electrolyte interface as studied with surface x-ray scattering",
+    "type": "article-journal",
+    "volume": "335"
+  },
+  {
+    "author": [
+      {
+        "family": "Godawat",
+        "given": "Rahul"
+      },
+      {
+        "family": "Jamadagni",
+        "given": "Sumanth N"
+      },
+      {
+        "family": "Garde",
+        "given": "Shekhar"
+      }
+    ],
+    "container-title": "Proc. Natl. Acad. Sci.",
+    "id": "godawat2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "15119-15124",
+    "title": "Special feature: Liquids and structural glasses special feature: Characterizing hydrophobicity of interfaces by using cavity formation, solute binding, and water correlations",
+    "title-short": "Special feature",
+    "type": "article-journal",
+    "volume": "106"
+  },
+  {
+    "author": [
+      {
+        "family": "Patel",
+        "given": "Amish J"
+      },
+      {
+        "family": "Varilly",
+        "given": "Patrick"
+      },
+      {
+        "family": "Chandler",
+        "given": "David"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "patel2010",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "1632-1637",
+    "publisher": "ACS Publications",
+    "title": "Fluctuations of water near extended hydrophobic and hydrophilic surfaces",
+    "type": "article-journal",
+    "volume": "114"
+  },
+  {
+    "author": [
+      {
+        "family": "De Gennes",
+        "given": "Pierre Gilles"
+      },
+      {
+        "family": "Quere",
+        "given": "David"
+      },
+      {
+        "family": "Brochard-Wyart",
+        "given": "Francoise"
+      }
+    ],
+    "id": "de2004capillary",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "Springer",
+    "title": "Capillary and wetting phenomena: Drops, bubble, pearls, waves",
+    "title-short": "Capillary and wetting phenomena",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "Xuhui"
+      },
+      {
+        "family": "Zhou",
+        "given": "Ruhong"
+      },
+      {
+        "family": "Berne",
+        "given": "Bruce J"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "huang2005",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "3546-3552",
+    "publisher": "ACS Publications",
+    "title": "Drying and hydrophobic collapse of paraffin plates",
+    "type": "article-journal",
+    "volume": "109"
+  },
+  {
+    "author": [
+      {
+        "family": "Panick",
+        "given": "Gunda"
+      },
+      {
+        "family": "Vidugiris",
+        "given": "Gediminas JA"
+      },
+      {
+        "family": "Malessa",
+        "given": "Ralf"
+      },
+      {
+        "family": "Rapp",
+        "given": "G"
+      },
+      {
+        "family": "Winter",
+        "given": "Roland"
+      },
+      {
+        "family": "Royer",
+        "given": "Catherine A"
+      }
+    ],
+    "container-title": "Biochem.",
+    "id": "panick1999",
+    "issue": "13",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "4157-4164",
+    "publisher": "ACS Publications",
+    "title": "Exploring the temperature- pressure phase diagram of staphylococcal nuclease",
+    "type": "article-journal",
+    "volume": "38"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "Jerson L"
+      },
+      {
+        "family": "Foguel",
+        "given": "Debora"
+      },
+      {
+        "family": "Royer",
+        "given": "Catherine A"
+      }
+    ],
+    "container-title": "Trends Biochem. Sci.",
+    "id": "silva2001",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "612-618",
+    "publisher": "Elsevier",
+    "title": "Pressure provides new insights into protein folding, dynamics and structure",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "Hummer",
+        "given": "Gerhard"
+      },
+      {
+        "family": "Garde",
+        "given": "Shekhar"
+      },
+      {
+        "family": "Garcia",
+        "given": "Angel E"
+      },
+      {
+        "family": "Paulaitis",
+        "given": "Michael E"
+      },
+      {
+        "family": "Pratt",
+        "given": "Lawrence R"
+      }
+    ],
+    "container-title": "Proc. Natl. Acad. Sci.",
+    "id": "hummer1998",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "1552-1555",
+    "publisher": "National Acad Sciences",
+    "title": "The pressure dependence of hydrophobic interactions is consistent with the observed pressure denaturation of proteins",
+    "type": "article-journal",
+    "volume": "95"
+  },
+  {
+    "author": [
+      {
+        "family": "Day",
+        "given": "Ryan"
+      },
+      {
+        "family": "Paschek",
+        "given": "Dietmar"
+      },
+      {
+        "family": "Garcia",
+        "given": "Angel E"
+      }
+    ],
+    "container-title": "Proteins",
+    "id": "day2010",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "1889-1899",
+    "publisher": "Wiley Online Library",
+    "title": "Microsecond simulations of the folding/unfolding thermodynamics of the trp-cage miniprotein",
+    "type": "article-journal",
+    "volume": "78"
+  },
+  {
+    "author": [
+      {
+        "family": "Giovambattista",
+        "given": "N."
+      },
+      {
+        "family": "Rossky",
+        "given": "P. J."
+      },
+      {
+        "family": "Debenedetti",
+        "given": "P. G."
+      }
+    ],
+    "container-title": "Annu. Rev. Phys. Chem",
+    "id": "giovambattista2012",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "179-200",
+    "title": "Computational studies of pressure, temperature, and surface effects on the structure and thermodynamics of confined water",
+    "type": "article-journal",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Acharya",
+        "given": "Hari"
+      },
+      {
+        "family": "Vembanur",
+        "given": "Srivathsan"
+      },
+      {
+        "family": "Jamadagni",
+        "given": "Sumanth N"
+      },
+      {
+        "family": "Garde",
+        "given": "Shekhar"
+      }
+    ],
+    "container-title": "Faraday Discuss.",
+    "id": "acharya2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "353-365",
+    "publisher": "Royal Society of Chemistry",
+    "title": "Mapping hydrophobicity at the nanoscale: Applications to heterogeneous surfaces and proteins",
+    "title-short": "Mapping hydrophobicity at the nanoscale",
+    "type": "article-journal",
+    "volume": "146"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "Sam-Yong"
+      },
+      {
+        "family": "Yokoyama",
+        "given": "Takeshi"
+      },
+      {
+        "family": "Shibayama",
+        "given": "Naoya"
+      },
+      {
+        "family": "Shiro",
+        "given": "Yoshitsugu"
+      },
+      {
+        "family": "Tame",
+        "given": "Jeremy R. H."
+      }
+    ],
+    "container-title": "J. Mol. Biol",
+    "id": "PARK2006",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "690 - 701",
+    "title": "1.25 å resolution crystal structures of human haemoglobin in the oxy, deoxy and carbonmonoxy forms",
+    "type": "article-journal",
+    "volume": "360"
+  },
+  {
+    "author": [
+      {
+        "family": "Terwilliger",
+        "given": "Thomas C"
+      },
+      {
+        "family": "Eisenberg",
+        "given": "David"
+      }
+    ],
+    "container-title": "J. Biol. Chem.",
+    "id": "terwilliger1982",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "page": "6010-6015",
+    "publisher": "ASBMB",
+    "title": "The structure of melittin. I. Structure determination and partial refinement.",
+    "type": "article-journal",
+    "volume": "257"
+  },
+  {
+    "author": [
+      {
+        "family": "Berne",
+        "given": "Bruce J"
+      },
+      {
+        "family": "Weeks",
+        "given": "John D"
+      },
+      {
+        "family": "Zhou",
+        "given": "Ruhong"
+      }
+    ],
+    "container-title": "Annu. Rev. Phys. Chem",
+    "id": "berne2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "1",
+    "title": "Dewetting and hydrophobic interaction in physical and biological systems",
+    "type": "article-journal",
+    "volume": "60"
+  },
+  {
+    "author": [
+      {
+        "family": "Bytautas",
+        "given": "Laimutis"
+      },
+      {
+        "family": "Matsunaga",
+        "given": "Nikita"
+      },
+      {
+        "family": "Ruedenberg",
+        "given": "Klaus"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "rueden2010",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "074307",
+    "title": "Accurate ab initio potential energy curve of O2. II. Core-valence correlations, relativistic contributions, and vibration-rotation spectrum",
+    "type": "article-journal",
+    "volume": "132"
+  },
+  {
+    "author": [
+      {
+        "family": "Nagy",
+        "given": "Tibor"
+      },
+      {
+        "family": "Yosa Reyes",
+        "given": "Juvenal"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "msarmd",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1366-1375",
+    "title": "Multisurface adiabatic reactive molecular dynamics",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Warshel",
+        "given": "A."
+      },
+      {
+        "family": "Weiss",
+        "given": "R. M."
+      }
+    ],
+    "container-title": "J. Am. Chem. Soc.",
+    "id": "evb",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "page": "6218",
+    "title": "An empirical valence bond approach for comparing reactions in solutions and in enzymes",
+    "type": "article-journal",
+    "volume": "102"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmitt",
+        "given": "U."
+      },
+      {
+        "family": "Voth",
+        "given": "G."
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "msevb",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "5547",
+    "title": "Multistate empirical valence bond model for proton transport in water",
+    "type": "article-journal",
+    "volume": "102"
+  },
+  {
+    "author": [
+      {
+        "family": "Danielsson",
+        "given": "J."
+      },
+      {
+        "family": "Meuwly",
+        "given": "M."
+      }
+    ],
+    "container-title": "J. Chem. Theory Comput.",
+    "id": "armd",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "1083",
+    "title": "Atomistic simulation of adiabatic reactive processes based on multi-state potential energy surfaces",
+    "type": "article-journal",
+    "volume": "4"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "Huan-Cheng"
+      },
+      {
+        "family": "Ewing",
+        "given": "George E."
+      }
+    ],
+    "container-title": "Phys. Rev. Lett.",
+    "id": "edwing1990",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          10
+        ]
+      ]
+    },
+    "page": "2125-2128",
+    "publisher": "American Physical Society",
+    "title": "Infrared fluorescence from a monolayer of CO on NaCl(100)",
+    "type": "article-journal",
+    "volume": "65"
+  },
+  {
+    "author": [
+      {
+        "family": "Corcelli",
+        "given": "S. A."
+      },
+      {
+        "family": "Tully",
+        "given": "J. C."
+      }
+    ],
+    "container-title": "J. Phys. Chem. A",
+    "id": "tully2002",
+    "issue": "45",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "10849-10860",
+    "title": "Vibrational energy pooling in CO on NaCl(100):  simulation and isotope effects",
+    "title-short": "Vibrational energy pooling in CO on NaCl(100)",
+    "type": "article-journal",
+    "volume": "106"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "Yingtian"
+      },
+      {
+        "family": "Wang",
+        "given": "Mengyi"
+      },
+      {
+        "family": "Zhang",
+        "given": "Dawei"
+      },
+      {
+        "family": "Wang",
+        "given": "Bu"
+      },
+      {
+        "family": "Sant",
+        "given": "Gaurav"
+      },
+      {
+        "family": "Bauchy",
+        "given": "Mathieu"
+      }
+    ],
+    "container-title": "Phys. Rev. Lett.",
+    "id": "yu2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "page": "165901",
+    "publisher": "American Physical Society",
+    "title": "Stretched exponential relaxation of glasses at low temperature",
+    "type": "article-journal",
+    "volume": "115"
+  },
+  {
+    "author": [
+      {
+        "family": "Phillips",
+        "given": "J C"
+      }
+    ],
+    "container-title": "Rep. Prog. Phys.",
+    "id": "Phillips1996",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          9
+        ]
+      ]
+    },
+    "page": "1133-1207",
+    "publisher": "IOP Publishing",
+    "title": "Stretched exponential relaxation in molecular and electronic glasses",
+    "type": "article-journal",
+    "volume": "59"
+  },
+  {
+    "author": [
+      {
+        "family": "Belyaev",
+        "given": "Andrey K."
+      },
+      {
+        "family": "Lasser",
+        "given": "Caroline"
+      },
+      {
+        "family": "Trigila",
+        "given": "Giulio"
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "bel14:224108",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "224108",
+    "title": "Landau-Zener type surface hopping algorithms",
+    "type": "article-journal",
+    "volume": "140"
+  },
+  {
+    "author": [
+      {
+        "family": "Belyaev",
+        "given": "Andrey K."
+      },
+      {
+        "family": "Lebedev",
+        "given": "Oleg V."
+      }
+    ],
+    "container-title": "Phys. Rev. A",
+    "id": "bel11:014701",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "014701",
+    "title": "Nonadiabatic nuclear dynamics of atomic collisions based on branching classical trajectories",
+    "type": "article-journal",
+    "volume": "84"
+  },
+  {
+    "author": [
+      {
+        "family": "Zener",
+        "given": "C."
+      }
+    ],
+    "container-title": "Proc. R. Soc. London A",
+    "id": "zen32:696",
+    "issued": {
+      "date-parts": [
+        [
+          1932
+        ]
+      ]
+    },
+    "page": "696-702",
+    "title": "Non-adiabatic crossing of energy levels",
+    "type": "article-journal",
+    "volume": "137"
+  },
+  {
+    "author": [
+      {
+        "family": "Landau",
+        "given": "L. D."
+      }
+    ],
+    "container-title": "Phys. Z",
+    "id": "lan32:46",
+    "issued": {
+      "date-parts": [
+        [
+          1932
+        ]
+      ]
+    },
+    "page": "46-52",
+    "title": "Assotsiatsiya dvukhatomnykh molekul",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Stine",
+        "given": "J. R."
+      },
+      {
+        "family": "Muckerman",
+        "given": "J. T."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "sti76:3975",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "page": "3975-3984",
+    "title": "On the multidimensional surface intersection problem and classical trajectory ’’surface hopping’’",
+    "type": "article-journal",
+    "volume": "65"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "William H."
+      },
+      {
+        "family": "George",
+        "given": "Thomas F."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "mil72:5637",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "page": "5637-5652",
+    "title": "Semiclassical Theory of Electronic Transitions in Low Energy Atomic and Molecular Collisions Involving Several Nuclear Degrees of Freedom",
+    "type": "article-journal",
+    "volume": "56"
+  },
+  {
+    "author": [
+      {
+        "family": "Fedorov",
+        "given": "Dmitri G."
+      },
+      {
+        "family": "Koseki",
+        "given": "Shiro"
+      },
+      {
+        "family": "Schmidt",
+        "given": "Michael W."
+      },
+      {
+        "family": "Gordon",
+        "given": "Mark S."
+      }
+    ],
+    "container-title": "Int Rev Phys Chem",
+    "id": "fedorov2003",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "551-592",
+    "publisher": "Taylor & Francis",
+    "title": "Spin-orbit coupling in molecules: Chemistry beyond the adiabatic approximation",
+    "title-short": "Spin-orbit coupling in molecules",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Stanton",
+        "given": "Alan C."
+      },
+      {
+        "family": "Kolb",
+        "given": "Charles E."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "stanton1980",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "page": "6637-6641",
+    "title": "Direct absorption measurement of the spin–orbit splitting and 2P1/2 radiative lifetime in atomic fluorine (2p5)",
+    "type": "article-journal",
+    "volume": "72"
+  },
+  {
+    "author": [
+      {
+        "family": "Robb",
+        "given": "Michael A."
+      },
+      {
+        "family": "Garavelli",
+        "given": "Marco"
+      },
+      {
+        "family": "Olivucci",
+        "given": "Massimo"
+      },
+      {
+        "family": "Bernardi",
+        "given": "Fernando"
+      }
+    ],
+    "container-title": "Reviews in computational chemistry",
+    "id": "robb2007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "87-146",
+    "publisher": "John Wiley \\& Sons, Ltd",
+    "title": "A computational strategy for organic photochemistry",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hernández",
+        "given": "Ramón"
+      },
+      {
+        "family": "Toumi",
+        "given": "Ralf"
+      },
+      {
+        "family": "Clary",
+        "given": "David C."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "toumi1995",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "9544-9556",
+    "title": "State‐selected vibrational relaxation rates for highly vibrationally excited oxygen molecules",
+    "type": "article-journal",
+    "volume": "102"
+  },
+  {
+    "author": [
+      {
+        "family": "Campos-Martìnez",
+        "given": "J."
+      },
+      {
+        "family": "Carmona-Novillo",
+        "given": "E."
+      },
+      {
+        "family": "Echave",
+        "given": "J."
+      },
+      {
+        "family": "Hernández",
+        "given": "M. I."
+      },
+      {
+        "family": "Hernández-Lamoneda",
+        "given": "R."
+      },
+      {
+        "family": "Palma",
+        "given": "J."
+      }
+    ],
+    "container-title": "Chem. Phys. Lett.",
+    "id": "palma1998",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "150 - 155",
+    "title": "Jump in depletion rates of highly excited O2: Reaction or enhanced vibrational relaxation?",
+    "title-short": "Jump in depletion rates of highly excited O2",
+    "type": "article-journal",
+    "volume": "289"
+  },
+  {
+    "author": [
+      {
+        "family": "Curry-Hyde",
+        "given": "H. E."
+      },
+      {
+        "family": "Musch",
+        "given": "Hans"
+      },
+      {
+        "family": "Baiker",
+        "given": "A."
+      },
+      {
+        "family": "Schraml-Marth",
+        "given": "M."
+      },
+      {
+        "family": "Wokaun",
+        "given": "A."
+      }
+    ],
+    "container-title": "J. Catal.",
+    "id": "chromia1992",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "397 - 414",
+    "title": "Surface structure of crystalline and amorphous chromia catalysts for the selective catalytic reduction of nitric oxide i. Characterization by temperature-programmed reaction and desorption",
+    "type": "article-journal",
+    "volume": "133"
+  },
+  {
+    "author": [
+      {
+        "family": "Jia",
+        "given": "Hongfei"
+      },
+      {
+        "family": "Stark",
+        "given": "Jason"
+      },
+      {
+        "family": "Zhou",
+        "given": "Li Qin"
+      },
+      {
+        "family": "Ling",
+        "given": "Chen"
+      },
+      {
+        "family": "Sekito",
+        "given": "Takeshi"
+      },
+      {
+        "family": "Markin",
+        "given": "Zachary"
+      }
+    ],
+    "container-title": "RSC Adv.",
+    "id": "jia2013",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "10874-10881",
+    "publisher": "The Royal Society of Chemistry",
+    "title": "Different catalytic behavior of amorphous and crystalline cobalt tungstate for electrochemical water oxidation",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Indra",
+        "given": "Arindam"
+      },
+      {
+        "family": "Menezes",
+        "given": "Prashanth W."
+      },
+      {
+        "family": "Sahraie",
+        "given": "Nastaran Ranjbar"
+      },
+      {
+        "family": "Bergmann",
+        "given": "Arno"
+      },
+      {
+        "family": "Das",
+        "given": "Chittaranjan"
+      },
+      {
+        "family": "Tallarida",
+        "given": "Massimo"
+      },
+      {
+        "family": "Schmeißer",
+        "given": "Dieter"
+      },
+      {
+        "family": "Strasser",
+        "given": "Peter"
+      },
+      {
+        "family": "Driess",
+        "given": "Matthias"
+      }
+    ],
+    "container-title": "J. Am. Chem. Soc.",
+    "id": "indra2014",
+    "issue": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "17530-17536",
+    "title": "Unification of catalytic water oxidation and oxygen reduction reactions: Amorphous beat crystalline cobalt iron oxides",
+    "title-short": "Unification of catalytic water oxidation and oxygen reduction reactions",
+    "type": "article-journal",
+    "volume": "136"
+  },
+  {
+    "author": [
+      {
+        "family": "Sato",
+        "given": "Akimasa"
+      },
+      {
+        "family": "Kitazawa",
+        "given": "Yuya"
+      },
+      {
+        "family": "Ochi",
+        "given": "Toshiro"
+      },
+      {
+        "family": "Shoji",
+        "given": "Mitsuo"
+      },
+      {
+        "family": "Komatsu",
+        "given": "Yu"
+      },
+      {
+        "family": "Kayanuma",
+        "given": "Megumi"
+      },
+      {
+        "family": "Aikawa",
+        "given": "Yuri"
+      },
+      {
+        "family": "Umemura",
+        "given": "Masayuki"
+      },
+      {
+        "family": "Shigeta",
+        "given": "Yasuteru"
+      }
+    ],
+    "container-title": "Mol. Astrophys.",
+    "id": "sato2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "11 - 19",
+    "title": "First-principles study of the formation of glycine-producing radicals from common interstellar species",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrod",
+        "given": "Robin T."
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Garrod_2013",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "page": "60",
+    "publisher": "IOP Publishing",
+    "title": "A THREE-PHASE CHEMICAL MODEL OF HOT CORES: THE FORMATION OF GLYCINE",
+    "title-short": "A THREE-PHASE CHEMICAL MODEL OF HOT CORES",
+    "type": "article-journal",
+    "volume": "765"
+  },
+  {
+    "author": [
+      {
+        "family": "Kvenvolden",
+        "given": "Keith"
+      },
+      {
+        "family": "Lawless",
+        "given": "James"
+      },
+      {
+        "family": "Pering",
+        "given": "Katherine"
+      },
+      {
+        "family": "Peterson",
+        "given": "Etta"
+      },
+      {
+        "family": "Flores",
+        "given": "Jose"
+      },
+      {
+        "family": "Ponnamperuma",
+        "given": "Cyril"
+      },
+      {
+        "family": "Kaplan",
+        "given": "Isaac R"
+      },
+      {
+        "family": "Moore",
+        "given": "Carleton"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "kvenvolden1970",
+    "issue": "5275",
+    "issued": {
+      "date-parts": [
+        [
+          1970
+        ]
+      ]
+    },
+    "page": "923-926",
+    "publisher": "Nature Publishing Group",
+    "title": "Evidence for extraterrestrial amino-acids and hydrocarbons in the murchison meteorite",
+    "type": "article-journal",
+    "volume": "228"
+  },
+  {
+    "author": [
+      {
+        "family": "Altwegg",
+        "given": "Kathrin"
+      },
+      {
+        "family": "Balsiger",
+        "given": "Hans"
+      },
+      {
+        "family": "Bar-Nun",
+        "given": "Akiva"
+      },
+      {
+        "family": "Berthelier",
+        "given": "Jean-Jacques"
+      },
+      {
+        "family": "Bieler",
+        "given": "Andre"
+      },
+      {
+        "family": "Bochsler",
+        "given": "Peter"
+      },
+      {
+        "family": "Briois",
+        "given": "Christelle"
+      },
+      {
+        "family": "Calmonte",
+        "given": "Ursina"
+      },
+      {
+        "family": "Combi",
+        "given": "Michael R."
+      },
+      {
+        "family": "Cottin",
+        "given": "Herve"
+      },
+      {
+        "family": "De Keyser",
+        "given": "Johan"
+      },
+      {
+        "family": "Dhooghe",
+        "given": "Frederik"
+      },
+      {
+        "family": "Fiethe",
+        "given": "Bjorn"
+      },
+      {
+        "family": "Fuselier",
+        "given": "Stephen A."
+      },
+      {
+        "family": "Gasc",
+        "given": "Sebastien"
+      },
+      {
+        "family": "Gombosi",
+        "given": "Tamas I."
+      },
+      {
+        "family": "Hansen",
+        "given": "Kenneth C."
+      },
+      {
+        "family": "Haessig",
+        "given": "Myrtha"
+      },
+      {
+        "family": "Jackel",
+        "given": "Annette"
+      },
+      {
+        "family": "Kopp",
+        "given": "Ernest"
+      },
+      {
+        "family": "Korth",
+        "given": "Axel"
+      },
+      {
+        "family": "Le Roy",
+        "given": "Lena"
+      },
+      {
+        "family": "Mall",
+        "given": "Urs"
+      },
+      {
+        "family": "Marty",
+        "given": "Bernard"
+      },
+      {
+        "family": "Mousis",
+        "given": "Olivier"
+      },
+      {
+        "family": "Owen",
+        "given": "Tobias"
+      },
+      {
+        "family": "Reme",
+        "given": "Henri"
+      },
+      {
+        "family": "Rubin",
+        "given": "Martin"
+      },
+      {
+        "family": "Semon",
+        "given": "Thierry"
+      },
+      {
+        "family": "Tzou",
+        "given": "Chia-Yu"
+      },
+      {
+        "family": "Waite",
+        "given": "James Hunter"
+      },
+      {
+        "family": "Wurz",
+        "given": "Peter"
+      }
+    ],
+    "container-title": "Sci. Adv.",
+    "id": "Altwegge2016",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5
+        ]
+      ]
+    },
+    "page": "1-6",
+    "publisher": "AMER ASSOC ADVANCEMENT SCIENCE",
+    "title": "Interstellar glycine",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuan",
+        "given": "Yi-Jehng"
+      },
+      {
+        "family": "Charnley",
+        "given": "Steven B."
+      },
+      {
+        "family": "Huang",
+        "given": "Hui-Chun"
+      },
+      {
+        "family": "Tseng",
+        "given": "Wei-Ling"
+      },
+      {
+        "family": "Kisiel",
+        "given": "Zbigniew"
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Kuan_2003",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          8
+        ]
+      ]
+    },
+    "page": "848-867",
+    "publisher": "IOP Publishing",
+    "title": "Interstellar glycine",
+    "type": "article-journal",
+    "volume": "593"
+  },
+  {
+    "author": [
+      {
+        "family": "Snyder",
+        "given": "L. E."
+      },
+      {
+        "family": "Lovas",
+        "given": "F. J."
+      },
+      {
+        "family": "Hollis",
+        "given": "J. M."
+      },
+      {
+        "family": "Friedel",
+        "given": "D. N."
+      },
+      {
+        "family": "Jewell",
+        "given": "P. R."
+      },
+      {
+        "family": "Remijan",
+        "given": "A."
+      },
+      {
+        "family": "Ilyushin",
+        "given": "V. V."
+      },
+      {
+        "family": "Alekseev",
+        "given": "E. A."
+      },
+      {
+        "family": "Dyubko",
+        "given": "S. F."
+      }
+    ],
+    "container-title": "Astrophys. J.",
+    "id": "Snyder_2005",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          2
+        ]
+      ]
+    },
+    "page": "914-930",
+    "publisher": "IOP Publishing",
+    "title": "A rigorous attempt to verify interstellar glycine",
+    "type": "article-journal",
+    "volume": "619"
+  },
+  {
+    "author": [
+      {
+        "family": "Shin",
+        "given": "Sucheol"
+      },
+      {
+        "family": "Willard",
+        "given": "Adam P."
+      }
+    ],
+    "container-title": "J. Chem. Theo. Comp.",
+    "id": "shin2018",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "461-465",
+    "title": "Characterizing hydration properties based on the orientational structure of interfacial water molecules",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "Daniel"
+      },
+      {
+        "family": "Terwilliger",
+        "given": "Thomas C"
+      },
+      {
+        "family": "Wickner",
+        "given": "William"
+      },
+      {
+        "family": "Eisenberg",
+        "given": "David"
+      }
+    ],
+    "container-title": "J. Biol. Chem.",
+    "id": "eisenberg:1990",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "page": "2578-2582",
+    "title": "Melittin forms crystals which are suitable for high resolution X-ray structural analysis and which reveal a molecular 2-fold axis of symmetry",
+    "type": "article-journal",
+    "volume": "255"
+  },
+  {
+    "author": [
+      {
+        "family": "Essmann",
+        "given": "Ulrich"
+      },
+      {
+        "family": "Perera",
+        "given": "Lalith"
+      },
+      {
+        "family": "Berkowitz",
+        "given": "Max L."
+      },
+      {
+        "family": "Darden",
+        "given": "Tom"
+      },
+      {
+        "family": "Lee",
+        "given": "Hsing"
+      },
+      {
+        "family": "Pedersen",
+        "given": "Lee G."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "ewald",
+    "issue": "19",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "page": "8577-8593",
+    "title": "A smooth particle mesh ewald method",
+    "type": "article-journal",
+    "volume": "103"
+  },
+  {
+    "author": [
+      {
+        "family": "Willard",
+        "given": "Adam P."
+      },
+      {
+        "family": "Chandler",
+        "given": "David"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "willard_instantaneous_2010",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "1954-1958",
+    "title": "Instantaneous Liquid Interfaces",
+    "type": "article-journal",
+    "volume": "114"
+  },
+  {
+    "author": [
+      {
+        "family": "Karplus",
+        "given": "M"
+      },
+      {
+        "family": "Ichiye",
+        "given": "T"
+      }
+    ],
+    "container-title": "J. Mol. Biol.",
+    "id": "karplus:1996",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "120-122",
+    "title": "Fluctuation and cross correlation analysis of protein motions observed in nanosecond molecular dynamics simulations",
+    "type": "article-journal",
+    "volume": "263"
+  },
+  {
+    "author": [
+      {
+        "family": "Ichiye",
+        "given": "T"
+      },
+      {
+        "family": "Karplus",
+        "given": "M"
+      }
+    ],
+    "container-title": "Prot. Struct. Funct. Genom.",
+    "id": "karplus:1991",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "205-217",
+    "title": "COLLECTIVE MOTIONS IN PROTEINS - A COVARIANCE ANALYSIS OF ATOMIC FLUCTUATIONS IN MOLECULAR-DYNAMICS AND NORMAL MODE SIMULATIONS",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "Allinger",
+        "given": "Norman L."
+      },
+      {
+        "family": "Yuh",
+        "given": "Young H."
+      },
+      {
+        "family": "Lii",
+        "given": "Jenn Huei"
+      }
+    ],
+    "container-title": "J. Am. Chem. Soc.",
+    "id": "Allinger1989",
+    "issue": "23",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "8551-8566",
+    "title": "Molecular mechanics. The MM3 force field for hydrocarbons. 1",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Cazade",
+        "given": "Pierre-André"
+      },
+      {
+        "family": "Hédin",
+        "given": "Florent"
+      },
+      {
+        "family": "Xu",
+        "given": "Zhen-Hao"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "cazade2015",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "3112-3122",
+    "title": "Vibrational relaxation and energy migration of n-methylacetamide in water: The role of nonbonded interactions",
+    "title-short": "Vibrational relaxation and energy migration of n-methylacetamide in water",
+    "type": "article-journal",
+    "volume": "119"
+  },
+  {
+    "author": [
+      {
+        "family": "Karplus",
+        "given": "M."
+      },
+      {
+        "family": "Porter",
+        "given": "R. N."
+      },
+      {
+        "family": "Sharma",
+        "given": "R. D."
+      }
+    ],
+    "container-title": "J. Chem. Phys.",
+    "id": "karplus1966",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          1966
+        ]
+      ]
+    },
+    "page": "3259-3287",
+    "title": "Exchange reactions with activation energy. I. Simple barrier potential for (h, H2)",
+    "type": "article-journal",
+    "volume": "43"
+  },
+  {
+    "author": [
+      {
+        "family": "Ren",
+        "given": "Pengyu"
+      },
+      {
+        "family": "Ponder",
+        "given": "Jay W."
+      }
+    ],
+    "container-title": "J. Phys. Chem. B",
+    "id": "ren2003",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "5933-5947",
+    "title": "Polarizable atomic multipole water model for molecular mechanics simulation",
+    "type": "article-journal",
+    "volume": "107"
+  },
+  {
+    "author": [
+      {
+        "family": "Hédin",
+        "given": "Florent"
+      },
+      {
+        "family": "El Hage",
+        "given": "Krystel"
+      },
+      {
+        "family": "Meuwly",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "J Chem Inf Model",
+    "id": "fittingwizard2016",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1479-1489",
+    "title": "A toolkit to fit nonbonded parameters from and for condensed phase simulations",
+    "type": "article-journal",
+    "volume": "56"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "Julie A"
+      },
+      {
+        "family": "Tschumper",
+        "given": "Gregory S"
+      }
+    ],
+    "container-title": "J. Phys. Chem. A",
+    "id": "tschumperDimers",
+    "issue": "22",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "7268-7271",
+    "publisher": "ACS Publications",
+    "title": "Characterizing the potential energy surface of the water dimer with DFT: Failures of some popular functionals for hydrogen bonding",
+    "title-short": "Characterizing the potential energy surface of the water dimer with DFT",
+    "type": "article-journal",
+    "volume": "110"
+  },
+  {
+    "author": [
+      {
+        "family": "Mills",
+        "given": "R"
+      }
+    ],
+    "container-title": "J. Phys. Chem.",
+    "id": "mills1973self",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1973
+        ]
+      ]
+    },
+    "page": "685-688",
+    "publisher": "ACS Publications",
+    "title": "Self-diffusion in normal and heavy water in the range 1-45. deg.",
+    "type": "article-journal",
+    "volume": "77"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Pruß",
+        "given": "Andreas"
+      }
+    ],
+    "container-title": "J. Phys. Chem. Ref. Data",
+    "id": "wagner2002iapws",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "387-535",
+    "publisher": "AIP Publishing",
+    "title": "The IAPWS formulation 1995 for the thermodynamic properties of ordinary water substance for general and scientific use",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Vasquez",
+        "given": "G B"
+      },
+      {
+        "family": "Ji",
+        "given": "X"
+      },
+      {
+        "family": "Fronticelli",
+        "given": "C"
+      },
+      {
+        "family": "Gilliland",
+        "given": "G L"
+      }
+    ],
+    "container-title": "Acta Crystallogr.,Sect.D",
+    "id": "Vasquez19981AJ9",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "355-366",
+    "title": "Human carboxyhemoglobin at 2.2 a resolution: Structure and so lvent comparisons of r-state, R2-state and t-state hemoglobin",
+    "title-short": "Human carboxyhemoglobin at 2.2 a resolution",
+    "type": "article-journal",
+    "volume": "54"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "M M"
+      },
+      {
+        "family": "Rogers",
+        "given": "P"
+      },
+      {
+        "family": "Arnone",
+        "given": "A"
+      }
+    ],
+    "container-title": "J. Biol. Chem.",
+    "id": "Silva19921bbb",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "17248-17256",
+    "title": "A third quaternary structure of human hemoglobin a at 1.7-a r esolution",
+    "type": "article-journal",
+    "volume": "267"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakagawa",
+        "given": "A"
+      },
+      {
+        "family": "Lui",
+        "given": "F E"
+      },
+      {
+        "family": "Wassaf",
+        "given": "D"
+      },
+      {
+        "family": "Yefidoff-Freedman",
+        "given": "R"
+      },
+      {
+        "family": "Casalena",
+        "given": "D"
+      },
+      {
+        "family": "Palmer",
+        "given": "M A"
+      },
+      {
+        "family": "Meadows",
+        "given": "J"
+      },
+      {
+        "family": "Mozzarelli",
+        "given": "A"
+      },
+      {
+        "family": "Ronda",
+        "given": "L."
+      },
+      {
+        "family": "Abdulmalik",
+        "given": "O"
+      },
+      {
+        "family": "Bloch",
+        "given": "K D"
+      },
+      {
+        "family": "Safo",
+        "given": "M K"
+      },
+      {
+        "family": "Zapol",
+        "given": "W M"
+      }
+    ],
+    "container-title": "ACS Chem.Biol.",
+    "id": "Nakagawa20144NI0",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "2318-2325",
+    "title": "Identification of a small molecule that increases hemoglobin oxygen affinity and reduces SS erythrocyte sickling",
+    "type": "article-journal",
+    "volume": "9"
+  }
+]

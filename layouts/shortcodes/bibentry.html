@@ -1,0 +1,9 @@
+<li id="ref-{{ .Get "id" }}" class="bibliography-entry">
+  <span class="bibliography-text">{{ .Get "text" | markdownify }}</span>
+  {{ if .Get "pdf" }}
+    <a class="bibliography-pdf" href="{{ .Get "pdf" }}" target="_blank" rel="noopener">
+      📄 PDF
+    </a>
+  {{ end }}
+</li>
+

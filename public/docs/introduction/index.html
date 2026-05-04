@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The transformer architecture [1] revolutionised NLP. Building on this, BERT [2] introduced bidirectional training.
+Studying the chemical interactions is important for understanding the reality around us. Everything, from stars to viruses, is an equilibrium between an intricate physical-chemical reaction network, where a small change in one of its produces extreme consequences for all others.
+TODO - passaggio nel mezzo
+In this website I will guide you trough my journey into exploring different topics of computational astrochemistry. We will see:
+">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2e3440">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/docs/introduction/">
+  <meta property="og:site_name" content="Marco’s Magical Molecular Machineries">
+  <meta property="og:title" content="Introduction">
+  <meta property="og:description" content="The transformer architecture [1] revolutionised NLP. Building on this, BERT [2] introduced bidirectional training.
+Studying the chemical interactions is important for understanding the reality around us. Everything, from stars to viruses, is an equilibrium between an intricate physical-chemical reaction network, where a small change in one of its produces extreme consequences for all others.
+TODO - passaggio nel mezzo
+In this website I will guide you trough my journey into exploring different topics of computational astrochemistry. We will see:">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+
+
+  <meta itemprop="name" content="Introduction">
+  <meta itemprop="description" content="The transformer architecture [1] revolutionised NLP. Building on this, BERT [2] introduced bidirectional training.
+Studying the chemical interactions is important for understanding the reality around us. Everything, from stars to viruses, is an equilibrium between an intricate physical-chemical reaction network, where a small change in one of its produces extreme consequences for all others.
+TODO - passaggio nel mezzo
+In this website I will guide you trough my journey into exploring different topics of computational astrochemistry. We will see:">
+  <meta itemprop="wordCount" content="621">
+
+<title>Introduction | Marco’s Magical Molecular Machineries</title>
+<link rel="icon" href="/favicon.png" >
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/docs/introduction/">
+<link rel="stylesheet" href="/book.min.662e7cb2868137c16fc3058173165da470cda426de58c619afddb9b228fa8f7d.css" integrity="sha256-Zi58soaBN8FvwwWBcxZdpHDNpCbeWMYZr925sij6j30=" crossorigin="anonymous">
+
+
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.7c62a2e87d6501218def957c1d36d1d27419ffd1c1adec281e882530d3d9de01.js" integrity="sha256-fGKi6H1lASGN75V8HTbR0nQZ/9HBrewoHoglMNPZ3gE=" crossorigin="anonymous"></script>
+
+
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/mhchem.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$",  right: "$",  display: false}
+      ]
+    });
+  });
+</script>
+
+</head>
+<body dir="ltr" class="book-kind-page book-type-docs">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    
+<aside class="book-menu">
+  <div class="book-menu-content">
+    
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><img src="/images/logo.png" alt="Logo" /><span>Marco’s Magical Molecular Machineries</span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input id="book-search-input" type="text" 
+    placeholder="Search"
+    aria-label="Search"
+    maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/introduction/" class="active">
+      Introduction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/overture/" class="">
+      Overture</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/posts/interstellar/" class="">
+      The chemistry of the interstellar medium</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/main/" class="">
+      Main</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/coda/" class="">
+      Coda</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+
+  </div>
+</aside>
+ 
+
+    <div class="book-page">
+      <header class="book-header hidden">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/icons/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Introduction</h3>
+
+  <label for="toc-control">
+    
+    <img src="/icons/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#water-as-a-surface">Water as a surface</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><p>The transformer architecture 
+
+
+
+
+  
+
+  
+
+  
+
+<sup><a href="#ref-attention2017" class="citation">[1]</a></sup>
+ revolutionised NLP.
+Building on this, BERT 
+
+
+
+
+  
+
+  
+
+  
+
+<sup><a href="#ref-bert2019" class="citation">[2]</a></sup>
+ introduced bidirectional training.</p>
+<p>Studying the chemical interactions is important for understanding the reality around us. Everything, from stars to viruses, is  an equilibrium between an intricate physical-chemical reaction network, where a small change in one of its produces extreme consequences for all others.</p>
+<p>TODO - passaggio nel mezzo</p>
+<p>In this website I will guide you trough my journey into exploring different topics of computational astrochemistry. We will see:</p>
+<ol>
+<li>the role fo water ice surfaces in the interstellar medium as a catalyst for the formation of molecules, looking at $\ce{O2}$ as an  example;</li>
+<li>the modellisation of photodissociation of diatomic and triatomic molecules, as a way to produce data that are essential to simulate conditions varying from the cold space between starts, to their hot surfaces;</li>
+<li>the study of non reactive scattering of diatomic molecules with atoms and other diatomics, as they can promote relaxation of newly formed species or enhance reactivity exciting the molecules involved in the reaction.</li>
+</ol>
+<h1 id="surface-reactivity">Surface reactivity<a class="anchor" href="#surface-reactivity">#</a></h1>
+<p>The outcome of a chemical reaction is highly dependent on the conditions in which it takes place. Changes in thermodynamic conditions, like temperature and pressure,  are known to inhibit or enhance the yield of a reaction, to favour the reactant or the product state. Another important role is played by the environment surrounding the reactive species. When going from the gas phase to the bulk phase  the diffusivity and number of reactive species are inversely proportional. In solid and liquids the presence of an electric field, generated by the difference of electron density of the other molecules, modifies the reaction path.</p>
+<p>Reactions that take place in heterogeneous environments occur at the <em>interface</em> (or <em>surface</em>) between two different phases (solid-liquid, solid-gas, liquid-liquid, <em>etc</em>). The interface is defined as the boundary between two spatial regions occupied by different types of matter or by matter in different states. The physico-chemical properties at the interface cannot be inferred by the simple combination of the single phases from which it is originated as phase changes causes unpredictable variation in the system.</p>
+<p>Surfaces are important because they can act as  catalysts for chemical reactions. They are particularly efficient catalysts, they are able not only to reduce  reaction barriers,  but they can also trap particles in cavities, facilitating the encounter of the reactive species and they can stabilize the newly formed molecules. An example of surface catalysed process are the  association/dissociation of small molecules on top of surfaces, especially in photochemical and electrochemical processes.</p>
+<p>In real systems the components  of an interface are often <em>irregular</em> or even <em>amorphous</em> as there is a loss or even  a complete lack of symmetry or homogeneity elements. These irregularities  can be physical, like the presence of cavities, pores and terraces, or chemical, meaning that the surface is composed of different species. For example an amorphous surface is formed when solidification processes happens too quickly for the atoms to rearrange themselves.</p>
+<h2 id="water-as-a-surface">Water as a surface<a class="anchor" href="#water-as-a-surface">#</a></h2>
+<p>Water is one of the most ubiquitous molecules in nature as it is found from space to inside organisms. Despite being a quite simple molecule composed of two hydrogen and an oxygen atom, water chemistry is different from all other chemical compounds, making it one of the main actors in chemistry. In both liquid and gas phase, $\ce{H2O}$ is characterized by an extensive hydrogen bond (H-bond) network, in which a hydrogen atom is placed between two oxygen atoms. The high directionality of the H-bonds and the average bond strength  of 5 kcal/mol
+
+
+
+
+  
+
+  
+
+  
+
+<sup><a href="#ref-1" class="citation">[3]</a></sup>
+ means that they are the predominant forces in the inter-molecular interactions. This strength derives from the high polarization along the oxygen-hydrogen bond and consequently the $\ce{H2O}$ molecules needs to be explicitly treated in computational simulations.</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+
+
+
+
+  
+  
+  
+  <div class="flex flex-wrap justify-between">
+    <span>
+    
+    </span>
+    <span>
+    
+      <a href="/docs/overture/" class="flex align-center">
+        <span>Overture</span>
+        <img src="/icons/forward.svg" class="book-icon" alt="Forward" />
+      </a>
+    
+    </span>
+  </div>
+  
+
+
+ 
+        
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+        
+        
+  
+ 
+        
+  
+  
+    <script>(function(){document.querySelectorAll("pre:has(code)").forEach(e=>{e.addEventListener("click",e.focus),e.addEventListener("copy",function(t){if(t.preventDefault(),navigator.clipboard){const t=window.getSelection().toString()||e.textContent;navigator.clipboard.writeText(t)}})})})()</script>
+  
+
+      </footer>
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+  
+  <aside class="book-toc">
+    <div class="book-toc-content">
+      
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#water-as-a-surface">Water as a surface</a></li>
+  </ul>
+</nav>
+
+
+
+    </div>
+  </aside>
+  
+ 
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

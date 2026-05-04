@@ -1,0 +1,77 @@
+/* --- COLOR CONFIGURATION (Change names here) --- */
+:root {
+    --my-sidebar-bg: lightcyan;
+    --my-sidebar-text: black;
+    --my-body-bg: lavender;
+    --my-body-text: black;
+    --menu-width: 20rem; 
+}
+
+/* 1. FORCE SIDEBAR FULL HEIGHT & WIDTH */
+.book-menu {
+    background-color: var(--my-sidebar-bg) !important;
+    color: var(--my-sidebar-text) !important;
+}
+
+.book-menu-content {
+    background-color: var(--my-sidebar-bg) !important;
+    padding: 1rem;
+}
+
+/* This targets the actual container that holds the sidebar */
+aside.book-menu {
+    background-color: var(--my-sidebar-bg) !important;
+}
+
+/* 2. FORCE MAIN PAGE AREA */
+body, .book-page {
+    background-color: var(--my-body-bg) !important;
+    color: var(--my-body-text) !important;
+}
+
+/* 3. BRANDING AREA (Logo and Title) */
+.book-brand a.flex.align-center {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 15px;
+}
+
+.book-brand img {
+    height: 120px !important;
+    width: auto !important;
+    max-width: 100%;
+}
+
+.book-brand span {
+    font-size: 1.8rem !important;
+    font-weight: bold;
+    color: var(--my-sidebar-text) !important;
+}
+
+/* 4. NAVIGATION LINKS & SEARCH */
+.book-menu nav a, 
+.book-menu nav label,
+.book-menu nav li {
+    color: var(--my-sidebar-text) !important;
+    font-size: 1.2rem;
+}
+
+.book-search input {
+    background-color: rgba(255, 255, 255, 0.1) !important; /* Semi-transparent search */
+    color: darkslategray !important;
+    border: 1px solid darkslategray !important;
+}
+
+/* 5. FIXING THE TOP BAR (Mobile Header) */
+.book-header {
+    background-color: var(--my-sidebar-bg) !important;
+    color: var(--my-sidebar-text) !important;
+}
+
+figcaption {
+    font-size: 0.9rem !important; /* Adjust this number to make it even smaller */
+    color: darkslategray !important;       /* Optional: makes it a softer grey */
+    margin-top: 0.5rem !important;
+    line-height: 1.2 !important;
+}

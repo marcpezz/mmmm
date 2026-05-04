@@ -1,0 +1,50 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Marco’s Magical Molecular Machineries'
+theme = 'book'
+
+[params]
+  # (Optional) Basic configuration
+  BookLogo = 'images/logo.png'
+  BookSectionEnumerable = true
+  BookMenuBundle = "/menu"
+  BookSectionSort = "weight"
+  BookCustomCSS = "css/custom.css"
+
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    inline = [["$", "$"], ["\\(", "\\)"]]
+    block  = [["$$", "$$"], ["\\[", "\\]"]]
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Introduction"
+    pageRef = "/docs/introduction"
+    weight = 2
+
+  [[menu.main]]
+    name = "Overture"
+    pageRef = "/docs/overture"
+    weight = 3
+
+  [[menu.main]]
+    name = "Main"
+    pageRef = "/docs/main"
+    weight = 4
+
+  [[menu.main]]
+    name = "Coda"
+    pageRef = "/docs/coda"
+    weight = 5
+
+  [[menu.main]]
+    name = "References"
+    pageRef = "/docs/references"
+    weight = 999

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marco’s Magical Molecular Machineries</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Posts on Marco’s Magical Molecular Machineries</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2026 08:59:48 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>&lt;p&gt;The transformer architecture &lt;sup&gt;&lt;a href=&#34;http://localhost:1313/docs/references/#ref-attention2017&#34; class=&#34;citation&#34;&gt;[attention2017]&lt;/a&gt;&lt;/sup&gt;&#xA; revolutionised NLP.&#xA;Building on this, BERT &lt;sup&gt;&lt;a href=&#34;http://localhost:1313/docs/references/#ref-bert2019&#34; class=&#34;citation&#34;&gt;[bert2019]&lt;/a&gt;&lt;/sup&gt;&#xA; introduced bidirectional training.&lt;/p&gt;&#xA;&lt;p&gt;Studying the chemical interactions is important for understanding the reality around us. Everything, from stars to viruses, is  an equilibrium between an intricate physical-chemical reaction network, where a small change in one of its produces extreme consequences for all others.&lt;/p&gt;&#xA;&lt;p&gt;TODO - passaggio nel mezzo&lt;/p&gt;&#xA;&lt;p&gt;In this website I will guide you trough my journey into exploring different topics of computational astrochemistry. We will see:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overture</title>
+      <link>http://localhost:1313/docs/overture/</link>
+      <pubDate>Mon, 13 Apr 2026 08:59:48 +0000</pubDate>
+      <guid>http://localhost:1313/docs/overture/</guid>
+      <description>&lt;p&gt;Der &lt;strong&gt;hur&lt;/strong&gt; ist nahe&#xA;&lt;em&gt;Tote Makima&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The chemistry of the interstellar medium</title>
+      <link>http://localhost:1313/docs/posts/interstellar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/posts/interstellar/</guid>
+      <description>&lt;h1 id=&#34;the-interstellar-medium&#34;&gt;The interstellar medium&lt;a class=&#34;anchor&#34; href=&#34;#the-interstellar-medium&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In all galaxies, the space between celestial bodies is filled with a collection of gas and dust particles. These particles are known as &lt;em&gt;interstellar medium&lt;/em&gt; (ISM) and possesses density of $10^{-9}$ grains$\times$cm$^{-3}$.\citep{wakelamrev} The ISM plays an important role as a reservoir of constituents for the formation of new stars. ISM is mostly composed of hydrogen atoms and they are used to measure the relative abundances of the other elements. The second most common element is helium with a relative abundance of 8.5$\times 10^{-2}$ per hydrogen atom, followed by oxygen (2.6$\times 10^{-4}$per hydrogen atom\citep{Markwick_2000}) and carbon  (1.2$\times 10^{-4}$ \citep{cardelli_1993} per hydrogen atom). All other elements are present with abundances lower than $10^{-4}$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Main</title>
+      <link>http://localhost:1313/docs/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/main/</guid>
+      <description>&lt;p&gt;V for Vendemmia&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coda</title>
+      <link>http://localhost:1313/docs/coda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/coda/</guid>
+      <description>&lt;p&gt;this is the end&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>References</title>
+      <link>http://localhost:1313/docs/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/references/</guid>
+      <description>&lt;section class=&#34;bibliography&#34;&gt;&#xA;  &lt;ol class=&#34;bibliography-list&#34;&gt;&#xA;    &#xA;&#xA;&lt;li id=&#34;ref-attention2017&#34; class=&#34;bibliography-entry&#34;&gt;&#xA;  &lt;span class=&#34;bibliography-text&#34;&gt;Vaswani, A. et al. (2017). &lt;em&gt;Attention Is All You Need&lt;/em&gt;. NeurIPS.&lt;/span&gt;&#xA;  &#xA;    &lt;a class=&#34;bibliography-pdf&#34; href=&#34;https://arxiv.org/pdf/1706.03762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xA;      📄 PDF&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/li&gt;&#xA;&#xA;&#xA;&#xA;&lt;li id=&#34;ref-bert2019&#34; class=&#34;bibliography-entry&#34;&gt;&#xA;  &lt;span class=&#34;bibliography-text&#34;&gt;Devlin, J. et al. (2019). &lt;em&gt;BERT: Pre-training of Deep Bidirectional Transformers&lt;/em&gt;. NAACL.&lt;/span&gt;&#xA;  &#xA;    &lt;a class=&#34;bibliography-pdf&#34; href=&#34;https://arxiv.org/pdf/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xA;      📄 PDF&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/li&gt;&#xA;&#xA;&#xA;&#xA;&lt;li id=&#34;ref-gpt32020&#34; class=&#34;bibliography-entry&#34;&gt;&#xA;  &lt;span class=&#34;bibliography-text&#34;&gt;Brown, T. et al. (2020). &lt;em&gt;Language Models are Few-Shot Learners&lt;/em&gt;. NeurIPS.&lt;/span&gt;&#xA;  &#xA;    &lt;a class=&#34;bibliography-pdf&#34; href=&#34;https://arxiv.org/pdf/2005.14165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&#xA;      📄 PDF&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/li&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;li id=&#34;ref-1&#34; class=&#34;bibliography-entry&#34;&gt;&#xA;  &lt;span class=&#34;bibliography-text&#34;&gt;Atkins, Peter W. and De Paula, Julio, &lt;em&gt;Atkins&amp;rsquo; Physical Chemistry&lt;/em&gt;, Oxford University Press (2006).&lt;/span&gt;&#xA;  &#xA;&lt;/li&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+  </channel>
+</rss>

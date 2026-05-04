@@ -1,0 +1,59 @@
+
+<!--\begin{figure}
+\begin{center}
+\includegraphics[scale=0.25]{introduction/figures/ices.pdf} 
+\end{center}
+\caption{Representation of the water ice surface for the three different polymorphs: ASW (left), I$_c$ (center) and I$_h$ (right).}
+\label{fig:ices}
+ \end{figure}
+
+# Water formation
+In the molecular clouds  the observed abundance of water ice cannot be explained by the direct accretion of  gas phase only. In gas phase it ranges from $n_{\textrm{\ce{H2O}}}< 10^{-8}$ in the coldest clouds to $n_{\textrm{\ce{H2O}}}> 10^{-4}$ in warm gas and shocks {{< cite "bergin1998">}},{{< cite "hollenbach2008">}}. This observation suggests the formation and successive evaporation of ice from the surface. 
+{{/*
+<!--
+$\ce{H2O}$ formation channels strongly depend on the local environment in the interstellar cloud{{< cite "Cuppen_2007}. Heavy atoms (in this case defined as atoms heavier than He) are deposited on top of carbonaceous and silicate grains, while the incoming H atom is trapped and diffuses into the surface with a temperature dependent efficiency. The involvement of the \ce{O} atom is the main route in the translucent and diffuse clouds, while the \ce{O2} and the \ce{O3} route are more efficient in cold molecular clouds. In those clouds the grain surface should be covered by different monolayers of amorphous solid \ce{O2} and temperature programmed desorption experiments show that hydrogen can penetrate the surface{{< cite "cuppenioppolo2010-1,cuppenioppolo2010-2}. This penetration can be addressed by different factors, for example the high mobility of O$_2$ when  temperature is increased, crystallization of O$_2$, replenishment of the oxygen molecule on top of the surface and thermal activation of H. Below 10 K  water formation is dominated by hydrogen diffusion, while from $T > 30 $ K strongly physisorbed oxygen atoms  can diffuse and encounter other species{{< cite "cazaux2010}. The \ce{H2O} reaction network leading to water formation is pictured in Figure \ref{fig:cuppenioppolo2010-2} from Ref{{< cite "cuppenioppolo2010-2}.
+\begin{figure}
+\begin{center}
+\includegraphics[scale=1.00]{introduction/figures/cuppen.pdf} \end{center}
+\caption{Oxygen chemical reaction network proposed by Cuppen et *al} in Ref{{< cite "cuppenioppolo2010-2} (represented in Figure 5 in the article). They found four different reaction types:  barrierless reactions (solid), reactions with a barrier but with detectable efficiency (dashed), reactions with efficiency below the experimental detection limit (dash-dotted), and undetermined efficiency reactions (dotted). The light gray arrows indicate the same entering channel but with different outgoing channels, and the black arrows are the reactions of the original reaction scheme.}
+\label{fig:cuppenioppolo2010-2}
+ \end{figure}
+
+
+#{The chemistry of oxygen}
+Due to the role of oxygen in water formation and its abundance, its evolution over the life of molecular cloud is the key to understand its development. Oxygen bearing species can be divided into two categories, the first typology, like \ce{H2O}, whose maximum abundance in gas phase  is reached before getting to the cloud's steady state ($\sim$ 10$^5$-10$^6$ years) and the second in which the maximum abundance is reached at the steady state, as$\ce{CO}$and \ce{O2}. The great majority of atomic oxygen is trapped in$\ce{CO}$with a relative abundance  of 10$^{-4}$ with respect to \ce{H2} reached around 10$^5$ years{{< cite "wakelamrev} after the cloud formation. 
+
+Molecular oxygen is an important component for the formation of \ce{H2O}, via the \ce{H2O2} and \ce{O3} channels {{< cite "Ioppolo2008}. A strong correlation between \ce{H2O} and \ce{O2} abundance is found in the 67P/Churyumov-Gerasimenko cometary coma{{< cite "bieler2015abundant">}}. O$_2$ has long been unsuccessfully predicted as the most abundant species in cold dense clouds and  was  recently detected in the warm region of the $\rho$-Ophiuchi cloud{{< cite "o2obs2007">},o2obs2012} with an abundance of $5 \times 10^{-8}$ relative to $\ce{H2}$. The same abundance is estimated for cold molecular clouds{{< cite "o2estimate2003">}}. The difficulties in its identification are due to the \ce{O2} being infrared inactive: only when the molecule is embedded in a matrix  a detection of the vibrational mode at 1551 cm$^{-1}$ can be achieved{{< cite "caselli2018}. The most probable reason for the mismatch between predictions and observations is the adsorption of  \ce{O2} on the surface. This hypothesis is  supported by the evidence of intermediate species involved in water formation network{{< cite "cuppenioppolo2010-2} (HO$_2$ and $\ce{H2O}$$_2$) in the $\rho$-Ophiuchi cloud. Other possible causes such as very young or carbon rich clouds are ruled out due to their specific conditions{{< cite "Markwick_2000}.
+
+In gas phase, the main proposed reaction for the  formation of O$_2$  is{{< cite "davidsson1990,carty2006}: 
+\begin{equation}
+    \ce{OH +$\ce{O}$-> O2 + H}.
+\end{equation}
+In solid phase O$_2$ the two following formation mechanism have been proposed:% competes with the 
+%\begin{equation}
+%    \ce{CO +O -> CO2}
+%\end{equation}
+%reaction{{< cite "ioppolo2011} and the the following formation paths have been proposed: 
+\begin{equation}
+    \ce{O +$\ce{O}$-> O2}
+\end{equation}
+and  
+\begin{equation}
+    \ce{HO2 + H -> O2 + H2 }, 
+\end{equation}
+with the first{{< cite "ioppolo2011">}} preferred to the  second, due to the high activation barrier (19.0 kcal/mol){{< cite "Mousavipour2007">}} of the latter. Oxygen formation through decomposition of \ce{H2O2} does not seem to be an efficient mechanism, due to the lower efficiency of the reaction in respect to what would be needed for explaining astrochemical models{{< cite "dulieu2017">}}.
+
+An important factor for the oxygen atom reactivity is the study of the surface diffusion mechanism. It is observed that diffusion can only occur on the top of the surface as crossing the first water bulk layer should take 10$^{29}$ s, making this process impossible{{< cite "minissale2019">}}. The diffusion energy ($E_{\textrm{dif}}$) is estimated by temperature desorption experiments from the  desorption energy ($E_{\textrm{des}}$) by the following expression:
+\begin{equation}
+    E_{\textrm{dif}}= 0.7 E_{\textrm{des}}
+\end{equation}
+From $E_{\textrm{des}} \sim 1320$ K, it derived that $E_{\textrm{dif}} \sim 750$ K{{< cite "minissale2016}. Temperature desorption experiments from 6-25 K show that the measured diffusion does not follow a typical Arrhenius form:
+\begin{equation}\label{eq:introarrh}
+    D = D_0 \exp \left( \frac{ E_\textrm{dif}}{k_BT}\right)
+\end{equation}
+with $D_0$ as Arrhenius constant, and $k_{\textrm{B}}$ the Boltzmann constant. Possible tunneling quantum effects below 20 K were supposed to be responsible for diffusion enhancement. 
+
+The combination of two oxygen atoms in their ground states ($^3$P) generates \ce{O2} in different electronic state, and each of them in various possible vibrational states{{< cite "ogilvie:2018}. The first ($^1\Delta_g$) and second ($^1\Sigma_g^+$)  excited states are known for their higher reactivity compared to the ground state.  In the gas phase the transition $a^1\Delta_g \rightarrow$ $X^3\Sigma_g^-$ is both spin and symmetry forbidden and $b^1 \Sigma_g^+ \rightarrow$ $X^3\Sigma_g^-$ is spin forbidden, with radiative lifetimes of 4000 s and 150 s, induced by magnetic-dipole and electric-quadrupole interactions{{< cite "parker:2014} respectively. However, forbidden transitions can occur in the presence of an environment that breaks the molecular symmetry. Relaxation from the $^1\Sigma_g^+$ state  to $^3\Sigma_g^-$  occurs *via} Inter System Crossing (ISC), governed by Spin Orbit Coupling (SOC) that can be described using the Landau Zener formalism{{< cite "wodtke:1999,minaev2003,dayou2005}.
+
+-->
+  

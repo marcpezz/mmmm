@@ -1,0 +1,10 @@
+{{ $id := .Get 0 }}
+{{ $cited := $.Page.Store.Get "cited" | default slice }}
+{{ if not (in $cited $id) }}
+  {{ $.Page.Store.Set "cited" ($cited | append $id) }}
+{{ end }}
+{{ $num := 1 }}
+{{ range $i, $v := ($.Page.Store.Get "cited") }}
+  {{ if eq $v $id }}{{ $num = add $i 1 }}{{ end }}
+{{ end }}
+<sup><a href="#ref-{{ $id }}" class="citation">[{{ $num }}]</a></sup>
