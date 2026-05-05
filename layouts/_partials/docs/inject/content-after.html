@@ -1,0 +1,43 @@
+<p>DEBUG PARTIAL LOADED</p>
+{{- $cited := .Scratch.Get "cited" -}}
+<p>DEBUG CITED: {{ $cited }}</p>
+{{- if $cited -}}
+<section class="bibliography">
+  <h2>References</h2>
+  <ol class="bibliography-list">
+    {{- range $cited -}}
+      {{- $id := . -}}
+      {{- range site.Data.bibliography -}}
+        {{- if eq .id $id -}}
+          {{- $entry := . -}}
+          {{- $year := "" -}}
+          {{- with $entry.issued -}}
+            {{- $year = printf "%v" (index (index (index . "date-parts") 0) 0) -}}
+          {{- end -}}
+          {{- $authors := slice -}}
+          {{- range $entry.author -}}
+            {{- $authors = $authors | append (printf "%s %s" .given .family) -}}
+          {{- end -}}
+          <li id="ref-{{ $entry.id }}" class="bibliography-entry">
+            <span class="bibliography-text">
+              {{ delimit $authors ", " }}
+              {{ if $year }}({{ $year }}).{{ end }}
+              <em>{{ $entry.title }}</em>.
+              {{ if eq $entry.type "article-journal" }}
+                <em>{{ index $entry "container-title" }}</em>
+                {{ with $entry.page }}, {{ . }}{{ end }}.
+              {{ else if eq $entry.type "chapter" }}
+                In <em>{{ index $entry "container-title" }}</em>
+                {{ with $entry.page }} (pp. {{ . }}){{ end }}.
+                {{ with $entry.publisher }} {{ . }}.{{ end }}
+              {{ else }}
+                {{ with $entry.publisher }}{{ . }}.{{ end }}
+              {{ end }}
+            </span>
+          </li>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </ol>
+</section>
+{{- end -}}
