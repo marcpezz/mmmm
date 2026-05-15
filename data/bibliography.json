@@ -2175,19 +2175,24 @@
   {
     "author": [
       {
-        "literal": "Cazaux, S."
+        "family": "Cazaux",
+        "given": "S."
       },
       {
-        "literal": "Cobut, V."
+        "family": "Cobut",
+        "given": "V."
       },
       {
-        "literal": "Marseille, M."
+        "family": "Marseille",
+        "given": "M."
       },
       {
-        "literal": "Spaans, M."
+        "family": "Spaans",
+        "given": "M."
       },
       {
-        "literal": "Caselli, P."
+        "family": "Caselli",
+        "given": "P."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -2523,178 +2528,236 @@
   {
     "author": [
       {
-        "literal": "Larsson, B."
+        "family": "Larsson",
+        "given": "B."
       },
       {
-        "literal": "Liseau, R."
+        "family": "Liseau",
+        "given": "R."
       },
       {
-        "literal": "Pagani, L."
+        "family": "Pagani",
+        "given": "L."
       },
       {
-        "literal": "Bergman, P."
+        "family": "Bergman",
+        "given": "P."
       },
       {
-        "literal": "Bernath, P."
+        "family": "Bernath",
+        "given": "P."
       },
       {
-        "literal": "Biver, N."
+        "family": "Biver",
+        "given": "N."
       },
       {
-        "literal": "Black, J. H."
+        "family": "Black",
+        "given": "J. H."
       },
       {
-        "literal": "Booth, R. S."
+        "family": "Booth",
+        "given": "R. S."
       },
       {
-        "literal": "Buat, V."
+        "family": "Buat",
+        "given": "V."
       },
       {
-        "literal": "Crovisier, J."
+        "family": "Crovisier",
+        "given": "J."
       },
       {
-        "literal": "Curry, C. L."
+        "family": "Curry",
+        "given": "C. L."
       },
       {
-        "literal": "Dahlgren, M."
+        "family": "Dahlgren",
+        "given": "M."
       },
       {
-        "literal": "Encrenaz, P. J."
+        "family": "Encrenaz",
+        "given": "P. J."
       },
       {
-        "literal": "Falgarone, E."
+        "family": "Falgarone",
+        "given": "E."
       },
       {
-        "literal": "Feldman, P. A."
+        "family": "Feldman",
+        "given": "P. A."
       },
       {
-        "literal": "Fich, M."
+        "family": "Fich",
+        "given": "M."
       },
       {
-        "literal": "Florén, H. G."
+        "family": "Florén",
+        "given": "H. G."
       },
       {
-        "literal": "Fredrixon, M."
+        "family": "Fredrixon",
+        "given": "M."
       },
       {
-        "literal": "Frisk, U."
+        "family": "Frisk",
+        "given": "U."
       },
       {
-        "literal": "Gahm, G. F."
+        "family": "Gahm",
+        "given": "G. F."
       },
       {
-        "literal": "Gerin, M."
+        "family": "Gerin",
+        "given": "M."
       },
       {
-        "literal": "Hagström, M."
+        "family": "Hagström",
+        "given": "M."
       },
       {
-        "literal": "Harju, J."
+        "family": "Harju",
+        "given": "J."
       },
       {
-        "literal": "Hasegawa, T."
+        "family": "Hasegawa",
+        "given": "T."
       },
       {
-        "literal": "Hjalmarson, Å."
+        "family": "Hjalmarson",
+        "given": "Å."
       },
       {
-        "literal": "Johansson, L. E. B."
+        "family": "Johansson",
+        "given": "L. E. B."
       },
       {
-        "literal": "Justtanont, K."
+        "family": "Justtanont",
+        "given": "K."
       },
       {
-        "literal": "Klotz, A."
+        "family": "Klotz",
+        "given": "A."
       },
       {
-        "literal": "Kyrölä, E."
+        "family": "Kyrölä",
+        "given": "E."
       },
       {
-        "literal": "Kwok, S."
+        "family": "Kwok",
+        "given": "S."
       },
       {
-        "literal": "Lecacheux, A."
+        "family": "Lecacheux",
+        "given": "A."
       },
       {
-        "literal": "Liljeström, T."
+        "family": "Liljeström",
+        "given": "T."
       },
       {
-        "literal": "Llewellyn, E. J."
+        "family": "Llewellyn",
+        "given": "E. J."
       },
       {
-        "literal": "Lundin, S."
+        "family": "Lundin",
+        "given": "S."
       },
       {
-        "literal": "Mégie, G."
+        "family": "Mégie",
+        "given": "G."
       },
       {
-        "literal": "Mitchell, G. F."
+        "family": "Mitchell",
+        "given": "G. F."
       },
       {
-        "literal": "Murtagh, D."
+        "family": "Murtagh",
+        "given": "D."
       },
       {
-        "literal": "Nordh, L. H."
+        "family": "Nordh",
+        "given": "L. H."
       },
       {
-        "literal": "Nyman, L.-Å."
+        "family": "Nyman",
+        "given": "L.-Å."
       },
       {
-        "literal": "Olberg, M."
+        "family": "Olberg",
+        "given": "M."
       },
       {
-        "literal": "Olofsson, A. O. H."
+        "family": "Olofsson",
+        "given": "A. O. H."
       },
       {
-        "literal": "Olofsson, G."
+        "family": "Olofsson",
+        "given": "G."
       },
       {
-        "literal": "Olofsson, H."
+        "family": "Olofsson",
+        "given": "H."
       },
       {
-        "literal": "Persson, G."
+        "family": "Persson",
+        "given": "G."
       },
       {
-        "literal": "Plume, R."
+        "family": "Plume",
+        "given": "R."
       },
       {
-        "literal": "Rickman, H."
+        "family": "Rickman",
+        "given": "H."
       },
       {
-        "literal": "Ristorcelli, I."
+        "family": "Ristorcelli",
+        "given": "I."
       },
       {
-        "literal": "Rydbeck, G."
+        "family": "Rydbeck",
+        "given": "G."
       },
       {
-        "literal": "Sandqvist, A. A."
+        "family": "Sandqvist",
+        "given": "A. A."
       },
       {
-        "literal": "Schéele, F. V."
+        "family": "Schéele",
+        "given": "F. V."
       },
       {
-        "literal": "Serra, G."
+        "family": "Serra",
+        "given": "G."
       },
       {
-        "literal": "Torchinsky, S."
+        "family": "Torchinsky",
+        "given": "S."
       },
       {
-        "literal": "Tothill, N. F."
+        "family": "Tothill",
+        "given": "N. F."
       },
       {
-        "literal": "Volk, K."
+        "family": "Volk",
+        "given": "K."
       },
       {
-        "literal": "Wiklind, T."
+        "family": "Wiklind",
+        "given": "T."
       },
       {
-        "literal": "Wilson, C. D."
+        "family": "Wilson",
+        "given": "C. D."
       },
       {
-        "literal": "Winnberg, A."
+        "family": "Winnberg",
+        "given": "A."
       },
       {
-        "literal": "Witt, G."
+        "family": "Witt",
+        "given": "G."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -2708,128 +2771,167 @@
       ]
     },
     "page": "999-1003",
-    "title": "Molecular oxygen in the ophiuchi cloud",
+    "title": "Molecular oxygen in the Ophiuchi cloud",
     "type": "article-journal",
     "volume": "466"
   },
   {
     "author": [
       {
-        "literal": "Liseau, R."
+        "family": "Liseau",
+        "given": "R."
       },
       {
-        "literal": "Goldsmith, P. F."
+        "family": "Goldsmith",
+        "given": "P. F."
       },
       {
-        "literal": "Larsson, B."
+        "family": "Larsson",
+        "given": "B."
       },
       {
-        "literal": "Pagani, L."
+        "family": "Pagani",
+        "given": "L."
       },
       {
-        "literal": "Bergman, P."
+        "family": "Bergman",
+        "given": "P."
       },
       {
-        "literal": "Le Bourlot, J."
+        "family": "Le Bourlot",
+        "given": "J."
       },
       {
-        "literal": "Bell, T. A."
+        "family": "Bell",
+        "given": "T. A."
       },
       {
-        "literal": "Benz, A. O."
+        "family": "Benz",
+        "given": "A. O."
       },
       {
-        "literal": "Bergin, E. A."
+        "family": "Bergin",
+        "given": "E. A."
       },
       {
-        "literal": "Bjerkeli, P."
+        "family": "Bjerkeli",
+        "given": "P."
       },
       {
-        "literal": "Black, J. H."
+        "family": "Black",
+        "given": "J. H."
       },
       {
-        "literal": "Bruderer, S."
+        "family": "Bruderer",
+        "given": "S."
       },
       {
-        "literal": "Caselli, P."
+        "family": "Caselli",
+        "given": "P."
       },
       {
-        "literal": "Caux, E."
+        "family": "Caux",
+        "given": "E."
       },
       {
-        "literal": "Chen, J.-H."
+        "family": "Chen",
+        "given": "J.-H."
       },
       {
-        "literal": "de Luca, M."
+        "family": "de Luca",
+        "given": "M."
       },
       {
-        "literal": "Encrenaz, P."
+        "family": "Encrenaz",
+        "given": "P."
       },
       {
-        "literal": "Falgarone, E."
+        "family": "Falgarone",
+        "given": "E."
       },
       {
-        "literal": "Gerin, M."
+        "family": "Gerin",
+        "given": "M."
       },
       {
-        "literal": "Goicoechea, J. R."
+        "family": "Goicoechea",
+        "given": "J. R."
       },
       {
-        "literal": "Hjalmarson, Å."
+        "family": "Hjalmarson",
+        "given": "Å."
       },
       {
-        "literal": "Hollenbach, D. J."
+        "family": "Hollenbach",
+        "given": "D. J."
       },
       {
-        "literal": "Justtanont, K."
+        "family": "Justtanont",
+        "given": "K."
       },
       {
-        "literal": "Kaufman, M. J."
+        "family": "Kaufman",
+        "given": "M. J."
       },
       {
-        "literal": "Le Petit, F."
+        "family": "Le Petit",
+        "given": "F."
       },
       {
-        "literal": "Li, D."
+        "family": "Li",
+        "given": "D."
       },
       {
-        "literal": "Lis, D. C."
+        "family": "Lis",
+        "given": "D. C."
       },
       {
-        "literal": "Melnick, G. J."
+        "family": "Melnick",
+        "given": "G. J."
       },
       {
-        "literal": "Nagy, Z."
+        "family": "Nagy",
+        "given": "Z."
       },
       {
-        "literal": "Olofsson, A. O. H."
+        "family": "Olofsson",
+        "given": "A. O. H."
       },
       {
-        "literal": "Olofsson, G."
+        "family": "Olofsson",
+        "given": "G."
       },
       {
-        "literal": "Roueff, E."
+        "family": "Roueff",
+        "given": "E."
       },
       {
-        "literal": "Sandqvist, Aa."
+        "family": "Sandqvist",
+        "given": "A. A."
       },
       {
-        "literal": "Snell, R. L."
+        "family": "Snell",
+        "given": "R. L."
       },
       {
-        "literal": "van der Tak, F. F. S."
+        "family": "van der Tak",
+        "given": "F. F. S."
       },
       {
-        "literal": "van Dishoeck, E. F."
+        "family": "van Dishoeck",
+        "given": "E. F."
       },
       {
-        "literal": "Vastel, C."
+        "family": "Vastel",
+        "given": "C."
       },
       {
-        "literal": "Viti, S."
+        "family": "Viti",
+        "given": "S."
       },
       {
-        "literal": "Yildiz, U. A."
+        "family": "Yildiz",
+        "given": "U. A."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -2842,131 +2944,171 @@
       ]
     },
     "page": "A73",
-    "title": "Multi-line detection of O2 toward iuchi a",
+    "title": "Multi-line detection of $\\ce{O2}$ toward Ophiuchi a",
     "type": "article-journal",
     "volume": "541"
   },
   {
     "author": [
       {
-        "literal": "Pagani, L."
+        "family": "Pagani",
+        "given": "L."
       },
       {
-        "literal": "Olofsson, A. O. H."
+        "family": "Olofsson",
+        "given": "A. O. H."
       },
       {
-        "literal": "Bergman, P."
+        "family": "Bergman",
+        "given": "P."
       },
       {
-        "literal": "Bernath, P."
+        "family": "Bernath",
+        "given": "P."
       },
       {
-        "literal": "Black, J. H."
+        "family": "Black",
+        "given": "J. H."
       },
       {
-        "literal": "Booth, R. S."
+        "family": "Booth",
+        "given": "R. S."
       },
       {
-        "literal": "Buat, V."
+        "family": "Buat",
+        "given": "V."
       },
       {
-        "literal": "Crovisier, J."
+        "family": "Crovisier",
+        "given": "J."
       },
       {
-        "literal": "Curry, C. L."
+        "family": "Curry",
+        "given": "C. L."
       },
       {
-        "literal": "Encrenaz, P. J."
+        "family": "Encrenaz",
+        "given": "P. J."
       },
       {
-        "literal": "Falgarone, E."
+        "family": "Falgarone",
+        "given": "E."
       },
       {
-        "literal": "Feldman, P. A."
+        "family": "Feldman",
+        "given": "P. A."
       },
       {
-        "literal": "Fich, M."
+        "family": "Fich",
+        "given": "M."
       },
       {
-        "literal": "Floren, H. G."
+        "family": "Floren",
+        "given": "H. G."
       },
       {
-        "literal": "Frisk, U."
+        "family": "Frisk",
+        "given": "U."
       },
       {
-        "literal": "Gerin, M."
+        "family": "Gerin",
+        "given": "M."
       },
       {
-        "literal": "Gregersen, E. M."
+        "family": "Gregersen",
+        "given": "E. M."
       },
       {
-        "literal": "Harju, J."
+        "family": "Harju",
+        "given": "J."
       },
       {
-        "literal": "Hasegawa, T."
+        "family": "Hasegawa",
+        "given": "T."
       },
       {
-        "literal": "Hjalmarson, Å."
+        "family": "Hjalmarson",
+        "given": "Å."
       },
       {
-        "literal": "Johansson, L. E. B."
+        "family": "Johansson",
+        "given": "L. E. B."
       },
       {
-        "literal": "Kwok, S."
+        "family": "Kwok",
+        "given": "S."
       },
       {
-        "literal": "Larsson, B."
+        "family": "Larsson",
+        "given": "B."
       },
       {
-        "literal": "Lecacheux, A."
+        "family": "Lecacheux",
+        "given": "A."
       },
       {
-        "literal": "Liljeström, T."
+        "family": "Liljeström",
+        "given": "T."
       },
       {
-        "literal": "Lindqvist, M."
+        "family": "Lindqvist",
+        "given": "M."
       },
       {
-        "literal": "Liseau, R."
+        "family": "Liseau",
+        "given": "R."
       },
       {
-        "literal": "Mattila, K."
+        "family": "Mattila",
+        "given": "K."
       },
       {
-        "literal": "Mitchell, G. F."
+        "family": "Mitchell",
+        "given": "G. F."
       },
       {
-        "literal": "Nordh, L. H."
+        "family": "Nordh",
+        "given": "L. H."
       },
       {
-        "literal": "Olberg, M."
+        "family": "Olberg",
+        "given": "M."
       },
       {
-        "literal": "Olofsson, G."
+        "family": "Olofsson",
+        "given": "G."
       },
       {
-        "literal": "Ristorcelli, I."
+        "family": "Ristorcelli",
+        "given": "I."
       },
       {
-        "literal": "Sandqvist, Aa."
+        "family": "Sandqvist",
+        "given": "Aa."
       },
       {
-        "literal": "von Scheele, F."
+        "family": "von Scheele",
+        "given": "F."
       },
       {
-        "literal": "Serra, G."
+        "family": "Serra",
+        "given": "G."
       },
       {
-        "literal": "Tothill, N. F."
+        "family": "Tothill",
+        "given": "N. F."
       },
       {
-        "literal": "Volk, K."
+        "family": "Volk",
+        "given": "K."
       },
       {
-        "literal": "Wiklind, T."
+        "family": "Wiklind",
+        "given": "T."
       },
       {
-        "literal": "Wilson, C. D."
+        "family": "Wilson",
+        "given": "C. D."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -3275,19 +3417,24 @@
   {
     "author": [
       {
-        "literal": "Müller, B."
+        "family": "Müller",
+        "given": "B."
       },
       {
-        "literal": "Giuliano, B. M."
+        "family": "Giuliano",
+        "given": "B. M."
       },
       {
-        "literal": "Bizzocchi, L."
+        "family": "Bizzocchi",
+        "given": "L."
       },
       {
-        "literal": "Vasyunin, A. I."
+        "family": "Vasyunin",
+        "given": "A. I."
       },
       {
-        "literal": "Caselli, P."
+        "family": "Caselli",
+        "given": "P."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -3300,20 +3447,23 @@
       ]
     },
     "page": "A46",
-    "title": "O_2 signature in thin and thick  ices",
+    "title": "$\\ce{O2}$ signature in thin and thick  ices",
     "type": "article-journal",
     "volume": "620"
   },
   {
     "author": [
       {
-        "literal": "Dulieu, F."
+        "family": "Dulieu",
+        "given": "F."
       },
       {
-        "literal": "Minissale, M."
+        "family": "Minissale",
+        "given": "M."
       },
       {
-        "literal": "Bockelée-Morvan, D."
+        "family": "Bockelée-Morvan",
+        "given": "D."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -3334,13 +3484,16 @@
   {
     "author": [
       {
-        "literal": "Minissale, M."
+        "family": "Minissale",
+        "given": "M."
       },
       {
-        "literal": "Nguyen, T."
+        "family": "Nguyen",
+        "given": "T."
       },
       {
-        "literal": "Dulieu, F."
+        "family": "Dulieu",
+        "given": "F."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -3360,13 +3513,16 @@
   {
     "author": [
       {
-        "literal": "Minissale, M."
+        "family": "Minissale",
+        "given": "M."
       },
       {
-        "literal": "Congiu, E."
+        "family": "Congiu",
+        "given": "E."
       },
       {
-        "literal": "Dulieu, F."
+        "family": "Dulieu",
+        "given": "F."
       }
     ],
     "container-title": "Astron. Astrophys.",
@@ -3636,7 +3792,7 @@
     },
     "page": "621-654",
     "publisher": "The Royal Society of Chemistry",
-    "title": "The mechanism of the catalytic action of platinum in the reactions 2Co + O2= 2Co2 and 2H2+ O2= 2H2O",
+    "title": "The mechanism of the catalytic action of platinum in the reactions 2$\\ce{CO}$ + $\\ce{O2}$= 2$\\ce{CO2}$ and 2$\\ce{H2}$+ $\\ce{O2}$= 2$\\ce{H2O}$",
     "type": "article-journal",
     "volume": "17"
   },

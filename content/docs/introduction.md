@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-weight: 2
+title: "General background"
+weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -22,6 +22,13 @@ Surfaces are  efficient catalysts, as they are able not only to reduce  reaction
 
 Interfaces are often **irregular** or  **amorphous**, due to the loss or lack of any form of symmetry.  Presence of presm catvities and terrace, are **phyisical irregularities**, while the presence of impurities and adsorbates are **chemical impurities**. Amorphous surfaces are formed when, during solidification, the kinetics effeects are more efficient than the thermodynamics. 
 
-## Water as a surface
 
-Water is one of the most ubiquitous molecules in nature as it is found from space to inside organisms. Despite being a quite simple molecule composed of two hydrogen and an oxygen atom, water chemistry is different from all other chemical compounds, making it one of the main actors in chemistry. In both liquid and gas phase, $\ce{H2O}$ is characterized by an extensive hydrogen bond (H-bond) network, in which a hydrogen atom is placed between two oxygen atoms. The high directionality of the H-bonds and the average bond strength  of 5 kcal/mol{{< cite "atkins" >}} means that they are the predominant forces in the inter-molecular interactions. This strength derives from the high polarization along the oxygen-hydrogen bond and consequently the $\ce{H2O}$ molecules needs to be explicitly treated in computational simulations.
+# The interstellar medium
+
+In all galaxies, the space between celestial bodies is filled with a collection of gas and dust particles. These particles are known as *interstellar medium* (ISM) and possesses density of $10^{-9}$ grains$\times$cm$^{-3}$.{{< cite "wakelamrev">}} The ISM is a reservoir of constituents for the formation of new stars. It is mostly composed of hydrogen atoms, the second most common element is helium with a relative abundance of 8.5$\times 10^{-2}$ per hydrogen atom, followed by oxygen (2.6$\times 10^{-4}$per hydrogen atom{{< cite "Markwick_2000">}}) and carbon (1.2$\times 10^{-4}$ {{< cite "cardelli_1993">}} per hydrogen atom). All other elements are present with abundances lower than $10^{-4}$.  
+
+The ISM floats in a sea of electromagnetic and particle radiations. Massive stars are the main sources of ultraviolet and visible radiation, and after absorption and re-emission by dust, they create a strong infrared field. Novae and supernovae are sources of high energy X-ray and $\gamma$-ray  radiation. Cosmic rays are fast-moving atomic nuclei (mostly protons) with average energies of the order of a few MeV. They are the only particles able to penetrate into  the denser dusty regions and ionize the $\ce{H2}$ molecule. The subsequent ion-electron recombination is then responsible for the weak ultraviolet radiation field inside the dust itself.  
+
+Most of the interstellar volume is occupied by  \ce{H^+} ions. This gas surrounds cooler regions where chemical processes are possible. The *diffuse clouds* are the first of those regions: the presence of **dust grain** carried with gas provides a defence against the interstellar radiation field. More complex processes are observed in the *translucent clouds*, where the large density (1000 particle$\times$cm$^{-3}$)  shields the inner regions against starlight from massive stars. In the *molecular clouds* the high energy photons are completely extinguished by the concentration of dust grains. Under these conditions molecules are the main components in gas phase or in the form of ice.
+
+

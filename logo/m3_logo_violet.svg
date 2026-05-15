@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="413.80838"
+   viewBox="0 0 413.80838 178.5"
+   role="img"
+   version="1.1"
+   id="svg82"
+   sodipodi:docname="m3_logo_violet.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   height="178.5"
+   inkscape:export-filename="m3_logo_violet.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs86" />
+  <sodipodi:namedview
+     id="namedview84"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.67279131"
+     inkscape:cx="156.06623"
+     inkscape:cy="229.6403"
+     inkscape:window-width="1300"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg82" />
+  <title
+     id="title2">Marco's Magical Molecular Machineries logo</title>
+  <desc
+     id="desc4">A circular emblem showing an O₂ molecule with three orbital rings and scattered stars, beside elegant typographic text</desc>
+  <style
+     id="style6">
+.ring-outer { fill: none; stroke: #CECBF6; stroke-width: 0.8; opacity: 0.7; }
+.ring-inner { fill: none; stroke: #CECBF6; stroke-width: 0.3; opacity: 0.4; }
+.orbit { fill: none; stroke: #AFA9EC; stroke-width: 0.9; opacity: 0.75; }
+.bond { stroke: #26215C; stroke-width: 1.8; }
+.atom { fill: #3C3489; }
+.atom-label { fill: #EEEDFE; font-family: Georgia, serif; font-size: 14px; font-weight: 600; }
+.electron { fill: #EF9F27; }
+.star-a { fill: #BA7517; }
+.star-b { fill: #EF9F27; }
+.divider { stroke: #CECBF6; stroke-width: 0.5; }
+.t-label { fill: #7F77DD; font-family: 'Courier New', monospace; font-size: 10.5px; letter-spacing: 5px; }
+.t-main { fill: #3C3489; font-family: Georgia, 'Times New Roman', serif; font-size: 50px; font-style: italic; }
+.t-sub { fill: #534AB7; font-family: 'Courier New', monospace; font-size: 15.5px; letter-spacing: 3.5px; }
+@media (prefers-color-scheme: dark) {
+  .ring-outer { stroke: #534AB7; }
+  .ring-inner { stroke: #534AB7; }
+  .orbit { stroke: #3C3489; }
+  .bond { stroke: #CECBF6; }
+  .atom { fill: #534AB7; }
+  .atom-label { fill: #EEEDFE; }
+  .electron { fill: #FAC775; }
+  .star-a { fill: #FAC775; }
+  .star-b { fill: #EF9F27; }
+  .divider { stroke: #534AB7; }
+  .t-label { fill: #AFA9EC; }
+  .t-main { fill: #AFA9EC; }
+  .t-sub { fill: #CECBF6; }
+}
+</style>
+  <circle
+     cx="87.25"
+     cy="89.5"
+     r="86"
+     class="ring-outer"
+     id="circle8"
+     style="stroke:#9796b2;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     cx="87.25"
+     cy="89.5"
+     r="80"
+     class="ring-inner"
+     id="circle10"
+     style="stroke:#a09dbf;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+  <ellipse
+     cx="87.25"
+     cy="89.5"
+     rx="76"
+     ry="27"
+     class="orbit"
+     id="ellipse12"
+     style="stroke:#716e99;stroke-width:3;stroke-dasharray:none;stroke-opacity:1" />
+  <ellipse
+     cx="121.13428"
+     cy="-30.810717"
+     rx="76"
+     ry="27"
+     class="orbit"
+     transform="rotate(60)"
+     id="ellipse14"
+     style="stroke:#716e99;stroke-width:3;stroke-dasharray:none;stroke-opacity:1" />
+  <ellipse
+     cx="-33.884274"
+     cy="120.31071"
+     rx="76"
+     ry="27"
+     class="orbit"
+     transform="rotate(-60)"
+     id="ellipse16"
+     style="stroke:#716e99;stroke-width:3;stroke-dasharray:none;stroke-opacity:1" />
+  <line
+     x1="66.25"
+     y1="89.5"
+     x2="108.25"
+     y2="89.5"
+     class="bond"
+     id="line20" />
+  <circle
+     cx="62.25"
+     cy="89.5"
+     r="19"
+     class="atom"
+     id="circle24" />
+  <text
+     x="62.25"
+     y="94.5"
+     text-anchor="middle"
+     class="atom-label"
+     id="text26">O</text>
+  <circle
+     cx="112.25"
+     cy="89.5"
+     r="19"
+     class="atom"
+     id="circle28" />
+  <text
+     x="112.25"
+     y="94.5"
+     text-anchor="middle"
+     class="atom-label"
+     id="text30">O</text>
+  <circle
+     cx="163.25"
+     cy="89.5"
+     r="4.5"
+     class="electron"
+     id="circle32"
+     style="fill:#efdb27;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  <circle
+     cx="125.25"
+     cy="23.5"
+     r="3.8"
+     class="electron"
+     opacity="0.9"
+     id="circle34"
+     style="fill:#efdb27;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  <circle
+     cx="125.25"
+     cy="155.5"
+     r="3.8"
+     class="electron"
+     opacity="0.9"
+     id="circle36"
+     style="fill:#efdb27;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  <circle
+     cx="27.25"
+     cy="39.5"
+     r="1.5"
+     class="star-a"
+     id="circle38" />
+  <circle
+     cx="37.25"
+     cy="131.5"
+     r="2"
+     class="star-b"
+     id="circle40"
+     style="stroke-width:2" />
+  <circle
+     cx="10.25"
+     cy="104.5"
+     r="1.5"
+     class="star-a"
+     id="circle42" />
+  <circle
+     cx="165.25"
+     cy="131.5"
+     r="2"
+     class="star-b"
+     id="circle44"
+     style="stroke-width:2" />
+  <circle
+     cx="97.25"
+     cy="11.5"
+     r="2"
+     class="star-b"
+     id="circle46"
+     style="stroke-width:2" />
+  <circle
+     cx="123.75"
+     cy="168"
+     r="3"
+     class="star-a"
+     id="circle48"
+     style="stroke-width:2" />
+  <circle
+     cx="5.25"
+     cy="129.5"
+     r="2"
+     class="star-b"
+     id="circle50"
+     style="fill:#efdb27;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1" />
+  <circle
+     cx="321.25"
+     cy="95.5"
+     r="2"
+     class="star-a"
+     id="circle52"
+     style="stroke-width:2" />
+  <circle
+     cx="87.25"
+     cy="1.5"
+     r="1.5"
+     class="star-b"
+     id="circle54" />
+  <circle
+     cx="69.700348"
+     cy="131.09184"
+     class="star-a"
+     id="circle56"
+     style="stroke-width:2"
+     r="2" />
+  <circle
+     cx="139.25"
+     cy="144.5"
+     r="1.5"
+     class="star-b"
+     id="circle58" />
+  <circle
+     cx="76.25"
+     cy="176.5"
+     r="2"
+     class="star-a"
+     id="circle60"
+     style="stroke-width:2" />
+  <circle
+     cx="111.70035"
+     cy="137.09184"
+     class="star-b"
+     id="circle62"
+     style="stroke-width:2"
+     r="2.4000001" />
+  <circle
+     cx="118.25"
+     cy="26.5"
+     r="1.2"
+     class="star-a"
+     id="circle64" />
+  <circle
+     cx="85.700348"
+     cy="107.09184"
+     class="star-b"
+     id="circle66"
+     style="stroke-width:2"
+     r="2" />
+  <circle
+     cx="-144.89851"
+     cy="-59.142952"
+     r="3.2849436"
+     class="star-a"
+     id="circle68"
+     style="stroke-width:3.28494"
+     transform="scale(-1)" />
+  <text
+     x="193.99622"
+     y="36.304291"
+     class="t-label"
+     id="text70"
+     style="fill:#4c4784;fill-opacity:1;stroke-width:1.50001">marco's</text>
+  <line
+     x1="194.25"
+     y1="42.5"
+     x2="413.80838"
+     y2="42.5"
+     class="divider"
+     id="line72"
+     style="stroke-width:1.46001;stroke-dasharray:none" />
+  <text
+     x="189.25"
+     y="97.5"
+     class="t-main"
+     id="text74">Magical</text>
+  <text
+     x="194.25"
+     y="122.5"
+     class="t-sub"
+     id="text76">MOLECULAR</text>
+  <text
+     x="194.25"
+     y="144.5"
+     class="t-sub"
+     id="text78">MACHINERIES</text>
+  <line
+     x1="194.25"
+     y1="154.5"
+     x2="413.80838"
+     y2="154.5"
+     class="divider"
+     id="line80"
+     style="stroke-width:1.46001;stroke-dasharray:none" />
+  <metadata
+     id="metadata2113">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Marco's Magical Molecular Machineries logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

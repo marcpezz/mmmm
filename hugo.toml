@@ -5,12 +5,16 @@ theme = 'book'
 
 [params]
   # (Optional) Basic configuration
-  BookLogo = 'images/logo.png'
+  BookLogo = 'images/m3_logo_violet.png'
   BookSectionEnumerable = true
   BookMenuBundle = "/menu"
   BookSectionSort = "weight"
   BookCustomCSS = "css/custom.css"
 
+
+[markup.goldmark.renderer]
+  unsafe = true
+  
 [markup.goldmark.extensions.passthrough]
   enable = true
   [markup.goldmark.extensions.passthrough.delimiters]

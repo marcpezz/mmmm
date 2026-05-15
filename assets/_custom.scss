@@ -75,3 +75,24 @@ figcaption {
     margin-top: 0.5rem !important;
     line-height: 1.2 !important;
 }
+
+// Make inline KaTeX match the body font
+.katex {
+  font-size: 1em !important;
+}
+
+.katex .mathnormal,
+.katex .mathit,
+.katex .mord,
+.katex .mbin,
+.katex .mrel,
+.katex .mopen,
+.katex .mclose,
+.katex .mpunct {
+  font-family: inherit !important;
+}
+
+// Keep upright style for numbers/operators
+.katex .mord.mathrm {
+  font-style: normal;
+}
